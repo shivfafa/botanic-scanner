@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\" \"npm run fastapi\"",
+    "server": "cd server && npm start",
+    "client": "cd client && npm start",
+    "fastapi": "cd Disease_Detection/api && uvicorn main:app --reload --port 8000"
+  }
+}

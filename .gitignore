@@ -1,0 +1,6 @@
+node_modules/
+Disease_Detection/saved_models/
+*.png
+*.jpg
+*.jpeg
+*.svg
