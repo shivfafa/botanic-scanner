@@ -97,7 +97,7 @@ export default function BrownSpotPrecautions() {
 
       <English style={{ display: isUrdu ? "none" : "block" }}>
   <Container>
-    <Heading>Rice Brown Spot Disease (چاول کی براؤن اسپاٹ بیماری)</Heading>
+    <Heading>Rice Brown Spot Disease (நெல் பழுப்பு புள்ளி நோய்)</Heading>
     <Description>
       <strong>Description:</strong> Rice Brown Spot, caused by the fungus
       Bipolaris oryzae (syn. Cochliobolus miyabeanus), is a common fungal
@@ -106,7 +106,7 @@ export default function BrownSpotPrecautions() {
       spots with a yellow halo. These spots can coalesce, causing extensive
       damage to the foliage and affecting rice yield.
     </Description>
-    <Subheading>Symptoms (علامات):</Subheading>
+    <Subheading>Symptoms (அறிகுறிகள்):</Subheading>
     <List>
       <ListItem>Formation of small, oval-shaped brown spots on leaves.</ListItem>
       <ListItem>
@@ -121,49 +121,49 @@ export default function BrownSpotPrecautions() {
         grain quality and yield.
       </ListItem>
     </List>
-    <Subheading>Causes (وجہ):</Subheading>
+    <Subheading>Causes (காரணம்):</Subheading>
     Rice Brown Spot is caused by the fungus Bipolaris oryzae. The fungus
     typically survives on rice residues in the soil and can be spread through
     infected seeds, wind, water, or farm equipment.
-    <Subheading>Impact on Crops (فصلوں پر اثرات):</Subheading>
+    <Subheading>Impact on Crops (பயிர்களில் விளைவுகள்):</Subheading>
     Rice Brown Spot can result in reduced photosynthetic activity and
     premature aging of leaves, leading to decreased yield and poor grain
     quality. Severe infections can cause significant economic losses for rice
     farmers.
-    <Subheading>Prevention and Management (روک تھام اور انتظام):</Subheading>
+    <Subheading>Prevention and Management (தடுப்பு மற்றும் மேலாண்மை):</Subheading>
     While complete eradication of Rice Brown Spot may not be possible,
     several measures can help manage and minimize its impact:
     <List>
       <ListItem>
-        <strong>1. Resistant Varieties (مزاحمت کی اقسام):</strong> Planting rice
+        <strong>1. Resistant Varieties (நோய் எதிர்ப்பு வகைகள்):</strong> Planting rice
         varieties with resistance to Rice Brown Spot can reduce disease severity.
       </ListItem>
       <ListItem>
-        <strong>2. Crop Rotation (فصل کی روٹیشن):</strong> Avoid consecutive rice
+        <strong>2. Crop Rotation (பயிர் சுழற்சி):</strong> Avoid consecutive rice
         plantings in the same field to break the disease cycle.
       </ListItem>
       <ListItem>
-        <strong>3. Seed Treatment (بیج کی تدارک):</strong> Use certified
+        <strong>3. Seed Treatment (விதை சிகிச்சை):</strong> Use certified
         disease-free seeds or treat seeds with appropriate fungicides before
         planting.
       </ListItem>
       <ListItem>
-        <strong>4. Fungicides (فنگی سائیڈز):</strong> Apply fungicides containing
+        <strong>4. Fungicides (பூஞ்சைக் கொல்லிகள்):</strong> Apply fungicides containing
         Tricyclazole, Pyroquilon, Benzimidazole, or Isoprothiolane to control
         the disease. Follow recommended application rates and safety guidelines.
       </ListItem>
       <ListItem>
-        <strong>5. Proper Irrigation (مناسب آبپاشی):</strong> Avoid excessive
+        <strong>5. Proper Irrigation (பொருத்தமான நீர்ப்பாசனம்):</strong> Avoid excessive
         irrigation, as waterlogged conditions can favor disease development.
       </ListItem>
     </List>
-    <Subheading>Fertilizer and Pesticide Use (کھاد اور کیڑے ماردار کا استعمال):</Subheading>
+    <Subheading>Fertilizer and Pesticide Use (உரங்கள் மற்றும் பூச்சிக்கொல்லிகள் பயன்பாடு):</Subheading>
     The use of fertilizers and pesticides can help in managing and reducing
     the impact of Rice Brown Spot. Proper application of fertilizers and
     targeted use of pesticides can improve the overall health of the rice
     plants and control the disease.
     <Description>
-      <strong>Fertilizers (کھاد):</strong>
+      <strong>Fertilizers (உரங்கள்):</strong>
       <List>
         <ListItem>
           Triple Superphosphate: Provides phosphorus, essential for root
@@ -197,79 +197,80 @@ export default function BrownSpotPrecautions() {
       </List>
     </Description>
     <Description>
-      <Subheading>Early Detection of Rice Brown Spot (چاول کی براؤن اسپاٹ کی جلد شناخت):</Subheading>
-      <strong>Fertilizers (کھاد):</strong>
-      <List>
-        <ListItem>
-          Increase the application of nitrogen-based fertilizers, such as
-          Monoammonium Phosphate, to support rice plants' recovery and
-          resistance to disease.
-        </ListItem>
-      </List>
-      <strong>Pesticides (کیڑے ماردار):</strong>
-      <List>
-        <ListItem>
-          Apply a targeted fungicide like Tricyclazole or Pyroquilon immediately
-          after detecting Rice Brown Spot symptoms. Early intervention can
-          prevent the spread of the disease to other plants and minimize damage.
-        </ListItem>
-      </List>
-      <Subheading>Severe Rice Brown Spot Outbreak (چاول کی براؤن اسپاٹ کے شدید پھیلاؤ):</Subheading>
-      <strong>Fertilizers (کھاد):</strong>
-      <List>
-        <ListItem>
-          Use a balanced fertilizer that includes essential nutrients like
-          nitrogen, phosphorus, and potassium to support the overall health of
-          rice plants during severe infections.
-        </ListItem>
-      </List>
-      <strong>Pesticides (کیڑے ماردار):</strong>
-      <List>
-        <ListItem>
-          In cases of severe Rice Brown Spot outbreaks, consult with
-          agricultural experts or extension services for appropriate pesticide
-          recommendations. They may suggest a combination of fungicides to
-          manage the disease effectively.
-        </ListItem>
-      </List>
-    </Description>
-    <Subheading>Disease Resistance and Crop Rotation (بیماری مزاحمت اور فصل کی روٹیشن):</Subheading>
-    <strong>Fertilizers (کھاد):</strong>
-    <List>
-      <ListItem>
-        Incorporate organic matter and compost into the soil to improve its
-        health and fertility, indirectly enhancing rice plants' disease
-        resistance.
-      </ListItem>
-    </List>
-    <strong>Pesticides (کیڑے ماردار):</strong>
-    <List>
-      <ListItem>
-        Rotate pesticides with different modes of action to reduce the risk of
-        developing resistance in the fungal population. Implement crop rotation
-        practices to break the disease cycle and minimize the recurrence of Rice
-        Brown Spot.
-      </ListItem>
-    </List>
-    <Subheading>Weather and Environmental Factors (موسم اور ماحولیاتی عوامل):</Subheading>
-    <strong>Fertilizers (کھاد):</strong>
-    <List>
-      <ListItem>
-        Adjust the timing and rates of fertilizer applications based on weather
-        conditions. During periods of excessive rainfall, consider reducing
-        nitrogen applications to prevent leaching and potential environmental
-        issues.
-      </ListItem>
-    </List>
-    <strong>Pesticides (کیڑے ماردار):</strong>
-    <List>
-      <ListItem>
-        Monitor weather forecasts and disease risk alerts to apply fungicides
-        proactively when conditions are favorable for Rice Brown Spot
-        development.
-      </ListItem>
-    </List>
-    <Subheading>Local Regulations and Safety (مقامی ضوابط اور حفاظتی تدابیر):</Subheading>
+  <Subheading>Early Detection of Rice Brown Spot (அரிசி பிரவுன் ஸ்பாட்டின் ஆரம்ப கண்டறிதல்):</Subheading>
+  <strong>Fertilizers (உரம்):</strong>
+  <List>
+    <ListItem>
+      Increase the application of nitrogen-based fertilizers, such as
+      Monoammonium Phosphate, to support rice plants' recovery and
+      resistance to disease.
+    </ListItem>
+  </List>
+  <strong>Pesticides (பூச்சி கொல்லிகள்):</strong>
+  <List>
+    <ListItem>
+      Apply a targeted fungicide like Tricyclazole or Pyroquilon immediately
+      after detecting Rice Brown Spot symptoms. Early intervention can
+      prevent the spread of the disease to other plants and minimize damage.
+    </ListItem>
+  </List>
+  <Subheading>Severe Rice Brown Spot Outbreak (அரிசி பிரவுன் ஸ்பாட்டின் கடுமையான பரவல்):</Subheading>
+  <strong>Fertilizers (உரம்):</strong>
+  <List>
+    <ListItem>
+      Use a balanced fertilizer that includes essential nutrients like
+      nitrogen, phosphorus, and potassium to support the overall health of
+      rice plants during severe infections.
+    </ListItem>
+  </List>
+  <strong>Pesticides (பூச்சி கொல்லிகள்):</strong>
+  <List>
+    <ListItem>
+      In cases of severe Rice Brown Spot outbreaks, consult with
+      agricultural experts or extension services for appropriate pesticide
+      recommendations. They may suggest a combination of fungicides to
+      manage the disease effectively.
+    </ListItem>
+  </List>
+</Description>
+<Subheading>Disease Resistance and Crop Rotation (நோய் எதிர்ப்பு மற்றும் பயிர் மாற்றம்):</Subheading>
+<strong>Fertilizers (உரம்):</strong>
+<List>
+  <ListItem>
+    Incorporate organic matter and compost into the soil to improve its
+    health and fertility, indirectly enhancing rice plants' disease
+    resistance.
+  </ListItem>
+</List>
+<strong>Pesticides (பூச்சி கொல்லிகள்):</strong>
+<List>
+  <ListItem>
+    Rotate pesticides with different modes of action to reduce the risk of
+    developing resistance in the fungal population. Implement crop rotation
+    practices to break the disease cycle and minimize the recurrence of Rice
+    Brown Spot.
+  </ListItem>
+</List>
+<Subheading>Weather and Environmental Factors (வானிலை மற்றும் சுற்றுச்சூழல் காரணிகள்):</Subheading>
+<strong>Fertilizers (உரம்):</strong>
+<List>
+  <ListItem>
+    Adjust the timing and rates of fertilizer applications based on weather
+    conditions. During periods of excessive rainfall, consider reducing
+    nitrogen applications to prevent leaching and potential environmental
+    issues.
+  </ListItem>
+</List>
+<strong>Pesticides (பூச்சி கொல்லிகள்):</strong>
+<List>
+  <ListItem>
+    Monitor weather forecasts and disease risk alerts to apply fungicides
+    proactively when conditions are favorable for Rice Brown Spot
+    development.
+  </ListItem>
+</List>
+<Subheading>Local Regulations and Safety (உள்ளூர் விதிமுறைகள் மற்றும் பாதுகாப்பு நடவடிக்கைகள்):</Subheading>
+
     <p>
       Always follow local regulations and safety guidelines regarding the use
       of fertilizers and pesticides.
@@ -288,188 +289,63 @@ export default function BrownSpotPrecautions() {
 </English>
 
 <Urdu style={{ display: isUrdu ? "block" : "none" }}>
-  <Container>
-    <Heading>(Rice Brown Spot Disease) چاول کی براؤن اسپاٹ بیماری</Heading>
-    <Description>
-      <strong>Description (تفصیل):</strong> چاول کی براؤن اسپاٹ بیماری جو کے
-      کارندہ فنگس Bipolaris oryzae (سائن. Cochliobolus miyabeanus) سے پیدا
-      ہوتی ہے، چاول کے پودوں کو متاثر کرتی ہے۔ یہ کارندہ پتے، پتوں کے
-      خول، اور پھول دانے تک میں داخل ہوتا ہے، جس سے پتے پر بھورے رنگ کے
-      چھوٹے دائرے نمودار ہوتے ہیں جو پیلا حلقہ ہوتا ہے۔ یہ دائرے ملاوٹ ہو
-      سکتے ہیں، جس سے پتوں اور پتوں کے خول پر وسیع مقامات پر نقصان
-      پہنچ سکتا ہے۔
-    </Description>
-    <Subheading>(Symptoms) علامات:</Subheading>
-    <List>
-      <ListItem>پتوں پر چھوٹے، انڈے کی شکل کے بھورے دائرے کی شکل بننا۔</ListItem>
-      <ListItem>دائرے کے ارد گرد پیلا حلقہ ہو سکتا ہے۔</ListItem>
-      <ListItem>شدید صورتحال میں، دائرے ملاوٹ ہو کر پتے اور پتوں کے خول پر
-        بڑے بڑے زخم نمودار ہو سکتے ہیں۔</ListItem>
-      <ListItem>متاثرہ پھول دانے پر سیاہ، دباوں والے زخم ہو سکتے ہیں، جس سے
-        چاول کی معیار و کمیت متاثر ہو سکتی ہے۔</ListItem>
-    </List>
-    <Subheading>(Causes) وجہ:</Subheading>
-    چاول کی براؤن اسپاٹ بیماری کی وجہ فنگس Bipolaris oryzae ہے۔ عام طور
-    پر یہ کارندہ زمین میں چاول کی باقیات پر بقائیہ رکھتا ہے اور متاثرہ بیج،
-    ہوا، پانی، یا زرخیز آلات کے ذرائع سے پھیلا سکتا ہے۔
-    <Subheading>(Impact on Crops) فصلوں پر اثرات:</Subheading>
-    چاول کی براؤن اسپاٹ بیماری کی بنا پر پتوں کی فوٹوسنتی کی کمی اور پتوں
-    کی جلد کے مقدمے کی جلد کی عجلتی عمر ہو سکتی ہے، جس سے کمی اور بدکار
-    چاول کی باقیات ہو سکتی ہے۔ شدید متاثرہ پھول دانے کی کھیپ پر چھائے ہوئے
-    زخم ہو سکتے ہیں، جس سے چاول کے کمی اور بدکار ہو سکتے ہیں۔
-    <Subheading>(Prevention and Management) روک تھام اور انتظام:</Subheading>
-    مکمل طور پر چاول کی براؤن اسپاٹ کے خاتمے کا مقصد حاصل کرنا ممکن نہیں
-    ہوسکتا، لیکن چند تدابیر سے اس کا اثر کم کیا جاسکتا ہے:
-    <List>
-      <ListItem>
-        <strong>1. Resistant Varieties (مزاحمت کی اقسام):</strong> چاول کے
-        براؤن اسپاٹ سے متاثرہ مضبوط قسم کے اقسام کی کاشت کرنے سے بیماری کی
-        شدت کم ہوسکتی ہے۔
-      </ListItem>
-      <ListItem>
-        <strong>2. Crop Rotation (فصل کی روٹیشن):</strong> ایک ہی خیط میں چاول کی
-        متواتر کاشت نہ کرنے سے بیماری کا دور چلا جا سکتا ہے۔
-      </ListItem>
-      <ListItem>
-        <strong>3. Seed Treatment (بیج کی تدارک):</strong> مناسب فنگی
-        کشتکاروں سے پہلے تصدیق شدہ بیماری سے پاک بیج استعمال کریں یا بیجوں
-        کو مناسب فنگی مار کے آمادہ کریں۔
-      </ListItem>
-      <ListItem>
-        <strong>4. Fungicides (فنگی سائیڈز):</strong> ٹرائیکلوزول، پائروکویلون،
-        بینزیمڈازول، یا ایسوپروتھائلین شامل فنگی سائیڈز کا استعمال بیماری
-        کو کنٹرول کرنے کے لئے کیا جاسکتا ہے۔ موصوف اطلاقی شرح اور حفاظتی تدابیر
-        کے ساتھ ان استعمال کریں۔
-      </ListItem>
-      <ListItem>
-        <strong>5. Proper Irrigation (مناسب آبپاشی):</strong> زیادہ آب پانی کے
-        اجلاس سے بچیں، کیونکہ پانی بھری موسمات میں بیماری کی تشکیل کو
-        فائدہ مند بنا سکتا ہے۔
-      </ListItem>
-    </List>
-    <Subheading>(Fertilizer and Pesticide Use) کھاد اور کیڑے ماردار کا استعمال:</Subheading>
-    کھاد اور کیڑے ماردار کے استعمال سے چاول کی براؤن اسپاٹ کے اثرات کا
-    انتظام کیا جا سکتا ہے۔ کھاد کے مناسب استعمال اور نشانہ بندی شدہ کیڑے
-    ماردار کے استعمال سے چاول کے پودوں کی عمومی صحت کو بہتر بنایا جاسکتا
-    ہے اور بیماری کو کنٹرول کیا جاسکتا ہے۔
-    <Description>
-      <strong>(Fertilizers) کھاد:</strong>
-      <List>
-        <ListItem>
-          ٹرپل سپرفاسفیٹ: روٹ کی ترقی اور کلیتی پودوں کے لئے ضروری فاسفورس
-          مہیا کرتا ہے۔
-        </ListItem>
-        <ListItem>
-          منو ایمونیم فاسفیٹ: صحیح پودوں کی ترقی کے لئے نائٹروجن اور فاسفورس
-          مہیا کرتا ہے۔
-        </ListItem>
-      </List>
-    </Description>
-    <Description>
-      <strong>(Pesticides) کیڑے ماردار:</strong>
-      <List>
-        <ListItem>
-          ٹرائیکلوزول: چاول کے براؤن اسپاٹ کو کنٹرول کرنے کے لئے خصوصی
-          طور پر استعمال کیا جانے والا فنگی سائیڈ ہے۔
-        </ListItem>
-        <ListItem>
-          پائروکویلون: فنگل انفیکشن کے خلاف محافظتی کارکردگی فراہم کرتا ہے۔
-        </ListItem>
-        <ListItem>
-          بینزیمڈازول: بائی پولیریس اوریزے جیسے فنگل پیٹھائی کونوس، کنٹرول کرتا
-          ہے۔
-        </ListItem>
-        <ListItem>
-          ایسوپروتھائلین: چاول کے براؤن اسپاٹ کے خلاف محافظت فراہم کرتا ہے اور
-          فنگل کی نمو کو روکتا ہے۔
-        </ListItem>
-      </List>
-    </Description>
-    <Description>
-      <Subheading>(Early Detection of Rice Brown Spot) چاول کی براؤن اسپاٹ کی جلد
-        شناخت:</Subheading>
-      <strong>(Fertilizers) کھاد:</strong>
-      <List>
-        <ListItem>
-          چاول کے متاثرہ پودوں کی بحالی اور بیماری کے خلاف مضبوطی کے لئے
-          نائٹروجن کی بنیاد پر کھاد کی اطلاقی شرح بڑھائیں۔
-        </ListItem>
-      </List>
-      <strong>(Pesticides) کیڑے ماردار:</strong>
-      <List>
-        <ListItem>
-          چاول کی براؤن اسپاٹ کے علامات کی تشخیص کے فوراً بعد ٹرائیکلوزول یا
-          پائروکویلون جیسے نشانہ بندی شدہ فنگی سائیڈز کا فوری استعمال کریں۔
-          جلدی انٹروینشن بیماری کے دوسرے پودوں تک پھیلنے سے بچا سکتا ہے اور
-          نقصان کم کیا جاسکتا ہے۔
-        </ListItem>
-      </List>
+<Container>
+<Heading>(நெல் பழுப்பு புள்ளி நோய்) Rice Brown Spot Disease</Heading>  
+    <Description>  
+      <strong>விளக்கம்:</strong> நெல் பழுப்பு புள்ளி நோய் என்பது Bipolaris oryzae (அறிவியல் பெயர்: Cochliobolus miyabeanus) என்ற பூஞ்சைக் காளானால் ஏற்படுகிறது. இந்த நோய் நெல் செடிகளின் இலைகள், இலை உறைகள் மற்றும் தானியங்களை பாதிக்கிறது. இலையில் பழுப்பு நிறத்தில் சிறிய வட்டங்கள் தோன்றுகின்றன, அவற்றைச் சுற்றி மஞ்சள் வளையம் இருக்கும். இந்த புள்ளிகள் இணைந்து பெரிய பகுதிகளுக்கு பரவலாம்.  
+    </Description>  
+    <Subheading>அறிகுறிகள்:</Subheading>  
+    <List>  
+      <ListItem>இலைகளில் சிறிய, முட்டை வடிவ பழுப்பு வட்டங்கள் தோன்றுதல்.</ListItem>  
+      <ListItem>வட்டத்தைச் சுற்றி மஞ்சள் வளையம் இருக்கலாம்.</ListItem>  
+      <ListItem>கடுமையான நிலையில், இவை இணைந்து இலைகள் மற்றும் இலை உறைகளில் பெரிய காயங்களை உருவாக்கலாம்.</ListItem>  
+      <ListItem>பாதிக்கப்பட்ட தானியங்களில் கருப்பு நிறத்தில் அழுத்தப்பட்ட காயங்கள் தோன்றலாம், இது நெலின் தரம் மற்றும் அளவை பாதிக்கும்.</ListItem>  
+    </List>  
+    <Subheading>காரணம்:</Subheading>  
+    நெல் பழுப்பு புள்ளி நோய் Bipolaris oryzae என்ற பூஞ்சைக் காளானால் ஏற்படுகிறது. இந்த காளான் மண்ணில் உள்ள நெல் எச்சங்களில் உயிர் வாழ்கிறது. பாதிக்கப்பட்ட விதைகள், காற்று, நீர் அல்லது விவசாய கருவிகள் மூலம் பரவுகிறது.  
 
-      <Subheading>(Severe Rice Brown Spot Outbreak) شدید چاول کی براؤن اسپاٹ کے
-        پھوٹنے پر:</Subheading>
-      <strong>(Fertilizers) کھاد:</strong>
-      <List>
-        <ListItem>
-          شدید چاول کی براؤن اسپاٹ کے پھوٹنے کے معاملے میں، کلسیم، فاسفورس، اور
-          پوٹاشیم جیسے ضروری عناصر کے ساتھ موزوں کھاد کا استعمال کریں تاکہ چاول
-          کے پودوں کی عمومی صحت کی حفاظت کی جا سکے، کیونکہ شدید انفیکشن پودوں
-          کے عناصر کی ذخیرہ ختم کرسکتا ہے۔
-        </ListItem>
-      </List>
-      <strong>(Pesticides) کیڑے ماردار:</strong>
-      <List>
-        <ListItem>
-          شدید چاول کی براؤن اسپاٹ کے پھوٹنے کے مواقع پر، زراعتی ماہرین یا
-          توسیعی خدمات سے مناسب کیڑے ماردار کی تجویزات کے لئے مشورہ کریں۔ وہ
-          بیماری کے مہاربی کنٹرول کے لئے سسٹمیک اور پروٹیکٹو فنگی سائیڈز کے
-          مجموعہ کا استعمال مشورہ دے سکتے ہیں۔
-        </ListItem>
-      </List>
+    <Subheading>பயிர்களில் விளைவுகள்:</Subheading>  
+    இந்த நோய் இலைகளின் ஒளிச்சேர்க்கை திறனை குறைக்கிறது. கடுமையான நிலையில், தானியங்களின் அளவு மற்றும் தரம் குறைகிறது.  
 
-      <Subheading>(Disease Resistance and Crop Rotation) مزاحمت اور فصل کی روٹیشن:</Subheading>
-      <strong>(Fertilizers) کھاد:</strong>
-      <List>
-        <ListItem>
-          زمین کی صحت اور زرخیزی کو بہتر بنانے کے لئے زمین میں آلودگی کی
-          مضبوطی کے لئے آلودگی اور کمپوسٹ کو ضمیمہ کریں جس سے پودوں کی مزاحمت
-          کو بہتر بنایا جا سکتا ہے۔
-        </ListItem>
-      </List>
-      <strong>(Pesticides) کیڑے ماردار:</strong>
-      <List>
-        <ListItem>
-          فنگل آبادی میں مزید حرکت پذیری کے خطرے کم کرنے کے لئے مختلف فنگلوں کے
-          ساتھ کیڑے ماردار کو روٹیٹ کریں۔ چاول کی براؤن اسپاٹ کے دور چلے کو
-          توڑنے اور کم کرنے کے لئے فصل کی روٹیشن تراکیب کا اطلاق کریں۔
-        </ListItem>
-      </List>
+    <Subheading>தடுப்பு மற்றும் மேலாண்மை:</Subheading>  
+    <List>  
+      <ListItem>  
+        <strong>1. நோய் எதிர்ப்பு வகைகள்:</strong> நோயை எதிர்க்கும் நெல் வகைகளை பயிரிடவும்.  
+      </ListItem>  
+      <ListItem>  
+        <strong>2. பயிர் சுழற்சி:</strong> தொடர்ச்சியாக நெல் பயிரிடுவதை தவிர்க்கவும்.  
+      </ListItem>  
+      <ListItem>  
+        <strong>3. விதை சிகிச்சை:</strong> நோயற்ற விதைகளை பயன்படுத்தவும் அல்லது பூஞ்சைக் கொல்லிகள் மூலம் விதைகளை சிகிச்சை செய்யவும்.  
+      </ListItem>  
+      <ListItem>  
+        <strong>4. பூஞ்சைக் கொல்லிகள்:</strong> டிரைக்ளோசோல், பைராக்ளோன் போன்றவற்றை பயன்படுத்தலாம்.  
+      </ListItem>  
+      <ListItem>  
+        <strong>5. சரியான நீர்ப்பாசனம்:</strong> அதிகப்படியான நீரை தவிர்க்கவும்.  
+      </ListItem>  
+    </List>  
 
-      <Subheading>(Weather and Environmental Factors) موسم اور ماحولیاتی عوامل:</Subheading>
-      <strong>(Fertilizers) کھاد:</strong>
-      <List>
-        <ListItem>
-          موسمیاتی شرائط کے مطابق کھاد کے اطلاق کی توقیت اور شرح کو ترتیب دیں۔
-          بڑھتی بارش کے دوران، نائٹروجن کے اطلاق کو کم کرنے کا خیال کریں تاکہ
-          لیچنگ اور ممکنہ ماحولیاتی مسائل سے بچایا جا سکے۔
-        </ListItem>
-      </List>
-      <strong>(Pesticides) کیڑے ماردار:</strong>
-      <List>
-        <ListItem>
-          موسم کے پیش بینی اور بیماری کے خطرے کی الرٹس کا مطالعہ کریں تاکہ
-          چاول کی براؤن اسپاٹ کے تشکیل کے موسمیاتی حوالے سے تاکتیکلی طور پر
-          فنگی سائیڈز کا اطلاق کیا جاسکے۔
-        </ListItem>
-      </List>
-    </Description>
-    <Subheading>(Local Regulations and Safety) مقامی ضوابط اور حفاظت:</Subheading>
+    <Subheading>உரங்கள் மற்றும் பூச்சிக்கொல்லிகள்:</Subheading>  
+    <Description>  
+      <strong>உரங்கள்:</strong>  
+      <List>  
+        <ListItem>டிரிபிள் சூப்பர் பாஸ்பேட்: வேர் வளர்ச்சிக்கு உதவுகிறது.</ListItem>  
+        <ListItem>மோனோ அம்மோனியம் பாஸ்பேட்: நைட்ரஜன் மற்றும் பாஸ்பரஸ் அளிக்கிறது.</ListItem>  
+      </List>  
+    </Description>  
+    <Description>  
+      <strong>பூச்சிக்கொல்லிகள்:</strong>  
+      <List>  
+        <ListItem>டிரைக்ளோசோல்: இந்த நோயை கட்டுப்படுத்த பயன்படுகிறது.</ListItem>  
+        <ListItem>பைராக்ளோன்: பூஞ்சை தொற்றுக்கு எதிராக பாதுகாப்பு அளிக்கிறது.</ListItem>  
+      </List>  
+    </Description>  
 
-    <p>کھاد اور کیڑے ماردار کے استعمال سے متعلق مقامی ضوابط اور حفاظتی
-      مشورے کا خیال رکھیں۔</p>
-    <p>فنگی سائیڈز اور کھاد کو ہینڈل کرنے اور استعمال کرنے کے وقت موزوں
-      شخصی تحفظ کا استعمال کریں۔</p>
-
-  </Container>
+    <Subheading>உள்ளூர் விதிமுறைகள் மற்றும் பாதுகாப்பு:</Subheading>  
+    <p>உரங்கள் மற்றும் பூச்சிக்கொல்லிகளை பயன்படுத்தும் போது உள்ளூர் விதிமுறைகளை பின்பற்றவும்.</p>  
+    <p>பாதுகாப்பு உபகரணங்களை பயன்படுத்தவும்.</p>  
+</Container>
 </Urdu>
 
     </>

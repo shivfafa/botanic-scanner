@@ -97,15 +97,15 @@ export default function HispaPrecautions() {
 
       <English style={{ display: isUrdu ? "none" : "block" }}>
   <Container>
-    <Heading>Rice Hispa Disease (چاول کی ہسپا بیماری)</Heading>
+    <Heading>Rice Hispa Disease (சாவல் ஹிஸ்பா நோய்)</Heading>
     <Description>
-      <strong>Description (تفصیل):</strong> Rice Hispa, scientifically known as
+      <strong>Description (விளக்கம்):</strong> Rice Hispa, scientifically known as
       Dicladispa armigera, is a common insect pest that affects rice plants.
       The adult Hispa beetles feed on the leaves of rice plants, while the
       larvae cause damage by mining inside the leaves. Severe infestations can
       lead to significant yield losses in rice crops.
     </Description>
-    <Subheading>Symptoms (علامات):</Subheading>
+    <Subheading>Symptoms (சிக்னல்கள்):</Subheading>
     The symptoms of Rice Hispa disease include:
     <List>
       <ListItem>Presence of small, elongated holes on the leaves.</ListItem>
@@ -117,14 +117,14 @@ export default function HispaPrecautions() {
         In severe cases, defoliation and reduced growth of rice plants.
       </ListItem>
     </List>
-    <Subheading>Causes (وجہ):</Subheading>
+    <Subheading>Causes (காரணம்):</Subheading>
     Rice Hispa is caused by the feeding activities of the Hispa beetles and
     their larvae on rice plants.
-    <Subheading>Impact on Crops (فصلوں پر اثرات):</Subheading>
+    <Subheading>Impact on Crops (பயிர்கள் மீது தாக்கங்கள்):</Subheading>
     Rice Hispa infestations can lead to reduced photosynthetic activity and
     stunted growth of rice plants, resulting in decreased yield and poor grain
     quality.
-    <Subheading>Prevention and Management (روک تھام اور انتظام):</Subheading>
+    <Subheading>Prevention and Management (தடுக்கல் மற்றும் மேலாண்மை):</Subheading>
     Several measures can help manage and minimize the impact of Rice Hispa
     disease:
     <List>
@@ -149,13 +149,13 @@ export default function HispaPrecautions() {
         efficacy.
       </ListItem>
     </List>
-    <Subheading>Fertilizer and Pesticide Use (کھاد اور کیڑے ماردار کا استعمال):</Subheading>
+    <Subheading>Fertilizer and Pesticide Use (உரங்களை மற்றும் பூச்சி விரட்டி பயன்பாடு):</Subheading>
     The use of fertilizers and pesticides can help in managing and reducing
     the impact of Rice Hispa disease. Proper application of fertilizers and
     targeted use of pesticides can improve the overall health of the rice
     plants and control the infestation.
     <Description>
-      <strong>Fertilizers (کھاد):</strong>
+      <strong>Fertilizers (உரங்கள்):</strong>
       <List>
         <ListItem>
           Muriate of Potash: Supplies potassium, essential for plant
@@ -168,7 +168,7 @@ export default function HispaPrecautions() {
       </List>
     </Description>
     <Description>
-      <strong>Pesticides (کیڑے ماردار):</strong>
+      <strong>Pesticides (புழு ஒழிப்பான்):</strong>
       <List>
         <ListItem>
           Carbaryl: An effective insecticide used for controlling Rice Hispa.
@@ -247,153 +247,152 @@ export default function HispaPrecautions() {
 </English>
 
 <Urdu style={{ display: isUrdu ? "block" : "none" }}>
-  <Container>
-    <Heading>چاول کی ہسپا بیماری (Rice Hispa Disease)</Heading>
+<Container>
+    <Heading>பொட்டு தானிய ஹிஸ்பா நோய் (Rice Hispa Disease)</Heading>
     <Description>
-      <strong>تفصیل (Description):</strong> چاول کی ہسپا، جس کو سائنسی طور پر
-      ڈکلاڈیسپا آرمیگرا کہا جاتا ہے، ایک عام کیڑا بیماری ہے جو چاول کے پودوں
-      پر اثر انداز ہوتی ہے۔ بالغ ہسپا کیچوئیں چاول کے پتوں کو کاٹتی ہیں، جبکہ
-      کیڑوں کی کیچوئیں پتوں کے اندر کھود کر نقصان پہنچاتی ہیں۔ شدید بھراؤ میں
-      چاول کی فصل میں نقصان پیدا ہوتا ہے۔
+      <strong>விளக்கம் (Description):</strong> பொட்டு தானிய ஹிஸ்பா, அறிவியல் ரீதியில் 
+      டிகிளாடெஸ்பா ஆர்மிக்ரா என அழைக்கப்படுகிறது, இது பொட்டு தானிய செடிகளுக்கு தாக்கம்
+      செய்யும் பொதுவான பூச்சி நோயாகும். பெரிய ஹிஸ்பா பூச்சிகள் பொட்டு தானிய இலைகளை கசக்கின்றன,
+      அதே நேரத்தில் பூச்சிகளின் லார்வாக்கள் இலைகளில் தோண்டி தீங்குகொடுக்கின்றன. கடுமையான தொற்றில்
+      பொட்டு தானிய விளைவே பாதிக்கப்பட்டு, பலனாகக் குறைகின்றது.
     </Description>
-    <Subheading>علامات (Symptoms):</Subheading>
-    چاول کی ہسپا بیماری کی علامات میں شامل ہیں:
+    <Subheading>அழிகைகள் (Symptoms):</Subheading>
+    பொட்டு தானிய ஹிஸ்பா நோயின் அழிகைகளில் அடிப்படையாக உள்ளன:
     <List>
-      <ListItem>پتوں پر چھوٹے، لمبے نشانے۔</ListItem>
+      <ListItem>இலையில் சிறிய, நீண்ட குத்திகள்.</ListItem>
       <ListItem>
-        کیچوں کی کھوراک سے پیدا ہونے والے سفید یا شفاف کھچکچہ دار دائرہ۔
+        பூச்சிகளின் லார்வாவை உள்ளடக்கிய வெள்ளை அல்லது தெளிவான குறுக்கான வட்டங்கள்.
       </ListItem>
-      <ListItem>نقصان سے پتے موڑے ہوئے ہوتے ہیں۔</ListItem>
-      <ListItem>شدید بھراؤ میں پتے کاٹ دیئے جانے سے پودے کی روئی کم ہوتی ہے۔</ListItem>
+      <ListItem>பாதிப்பால் இலைகள் மடிக்கப்படுகின்றன.</ListItem>
+      <ListItem>கடுமையான தொற்றில் இலைகள் வெட்டப்படுவதால் செடியின் வளர்ச்சி குறைகின்றது.</ListItem>
     </List>
-    <Subheading>وجہ (Causes):</Subheading>
-    چاول کی ہسپا کا سبب ہسپا کیچوں اور ان کے کیچوں کی کھوراک ہے جو چاول کے
-    پودوں پر کھاتے ہیں۔
-    <Subheading>فصلوں پر اثرات (Impact on Crops):</Subheading>
-    چاول کی ہسپا کیچوں کے حملے سے چاول کی فصل کی زرخیزی کم ہو جاتی ہے اور
-    پودوں کی روئی پر اثر انداز ہوتا ہے، جس سے فصل کی کاٹی کم ہوتی ہے اور دانے
-    کی معیار بہتر نہیں ہوتا۔
-    <Subheading>روک تھام اور انتظام (Prevention and Management):</Subheading>
-    چاول کی ہسپا بیماری کے اثرات کو کم کرنے کے لئے کئی تدابیر اختیار کی جا سکتی
-    ہیں:
+    <Subheading>காரணங்கள் (Causes):</Subheading>
+    பொட்டு தானிய ஹிஸ்பாவின் காரணம் ஹிஸ்பா பூச்சிகளும் அவற்றின் லார்வாக்கள்
+    பொட்டு தானிய செடிகளுக்கு உணவு எடுக்கும்.
+    <Subheading>விளைவரிசையில் தாக்கம் (Impact on Crops):</Subheading>
+    பொட்டு தானிய ஹிஸ்பா பூச்சிகளின் தாக்கம், பொட்டு தானிய விளைவே பசுமையாகக் குறைந்து
+    செடியின் வளர்ச்சியை பாதிப்பதாக உள்ளது, இதனால் விளைவு குறைந்து, தானியத்தின் தரம்
+    சரியில்லாமல் அமைந்துவிடும்.
+    <Subheading>தடை மற்றும் மேலாண்மை (Prevention and Management):</Subheading>
+    பொட்டு தானிய ஹிஸ்பா நோயின் தாக்கத்தை குறைக்க பல வழிமுறைகள் பின்பற்றப்படலாம்:
     <List>
       <ListItem>
-        <strong>1. نگرانی (Monitoring):</strong> چاول کے کھیتوں کو مستقل دوری
-        میں چیک کریں تاکہ ہسپا کے حملے کے ابتدائی علامات کا پتہ چل سکے اور
-        جلدی اقدامات اٹھائے جا سکیں۔
+        <strong>1. கண்காணிப்பு (Monitoring):</strong> பொட்டு தானிய மைதானங்களை நேர்முகமாக
+        கண்காணித்து, ஹிஸ்பா பூச்சிகளின் தொடக்க அறிகுறிகளை அடையாளம் காண்பது மற்றும்
+        விரைவாக நடவடிக்கைகள் எடுக்கப்படலாம்.
       </ListItem>
       <ListItem>
-        <strong>2. حیاتیاتی ناظمہ بندی (Biological Control):</strong> ہسپا کیچوں
-        اور ان کے کیچوں کو کھاتے ہوئے حیاتی دشمنوں جیسے مکھیاں، بھنڈیں اور
-        پیڑوں سے بھرنے کے لئے ترغیب دیں۔
+        <strong>2. உயிரியல் கட்டுப்பாடு (Biological Control):</strong> ஹிஸ்பா பூச்சிகளையும்
+        அவற்றின் லார்வாக்களையும் எதிர்க்கும் உயிரியல் எதிரிகளான ஈக்கள், முருகுகள் மற்றும்
+        பச்சைத் தேசங்களை ஊக்குவிக்கவும்.
       </ListItem>
       <ListItem>
-        <strong>3. ثقافتی تراکیب (Cultural Practices):</strong> چاول کے کھیتوں میں
-        ہسپا کیچوں کی تعداد کو کم کرنے کے لئے صاف کشائی، مناسب کھیت کا
-        نکاسی اور جھاڑوں کے میزبانوں کے ختم کرنے جیسی تدابیر اختیار کریں۔
+        <strong>3. வேளாண்மைக் வழிமுறைகள் (Cultural Practices):</strong> பொட்டு தானிய மைதானங்களில்
+        ஹிஸ்பா பூச்சிகளின் எண்ணிக்கையை குறைக்கும் வகையில் சுத்தப்படுத்தல், சரியான மண்
+        கழிவு மற்றும் புள்ளிகளின் உபயோகங்களைக் கண்டறிந்து நடைமுறை செய்யவும்.
       </ListItem>
       <ListItem>
-        <strong>4. کیمیائی ناظمہ بندی (Chemical Control):</strong> ہسپا کیچوں کی
-        تعداد اقتصادی حد سے زیادہ ہونے پر کیچوں کو کنٹرول کرنے کے لئے کیڑے
-        ماردار استعمال کریں۔ کیچوں کی حیاتی دورے کے ابتدائی مراحل میں کیڑے
-        ماردار لگائیں تاکہ ان کے اثرات کو کم کیا جا سکے۔
+        <strong>4. இரசாயன கட்டுப்பாடு (Chemical Control):</strong> ஹிஸ்பா பூச்சிகளின் எண்ணிக்கை
+        பொருளாதார முறையில் அதிகரித்தால், அவற்றை கட்டுப்படுத்த pesticide பயன்பாட்டைப் பயன்படுத்தவும்.
+        பூச்சிகளின் உயிரியல் முறை முதன்முதலில் pesticide பயன்படுத்தினால் அவற்றின் தாக்கத்தை
+        குறைக்க முடியும்.
       </ListItem>
     </List>
-    <Subheading>کھاد اور کیڑے ماردار کا استعمال (Fertilizer and Pesticide Use):</Subheading>
-    کھاد اور کیڑے ماردار کے استعمال سے چاول کی ہسپا بیماری کے اثرات کو کم کرنا
-    ممکن ہے۔ کھاد اور ہدفمند کیڑے ماردار کا استعمال چاول کے پودوں کی عمومی
-    صحت کو بہتر بنا سکتا ہے اور کیچوں کے حملے کو کنٹرول کر سکتا ہے۔
+    <Subheading>உழவன் மற்றும் பூச்சி மருந்து பயன்பாடு (Fertilizer and Pesticide Use):</Subheading>
+    உழவன் மற்றும் பூச்சி மருந்துகளின் பயன்படுத்துதலால் பொட்டு தானிய ஹிஸ்பா நோயின்
+    தாக்கங்களை குறைக்க முடியும். உழவன் மற்றும் நோக்கப்பட்ட பூச்சி மருந்துகளின் பயன்பாடு
+    பொட்டு தானிய செடிகளின் பொதுவான சுகாதாரத்தை மேம்படுத்தும் மற்றும் பூச்சிகளின் தாக்கங்களை
+    கட்டுப்படுத்த உதவலாம்.
     <Description>
-      <strong>کھاد (Fertilizers):</strong>
+      <strong>உழவன் (Fertilizers):</strong>
       <List>
         <ListItem>
-          Muriate of Potash: پودوں کی ترقی اور کلی کے لئے ضروری پوٹاشیم فراہم
-          کرتا ہے۔
+          மியூரியட் ஆஃப் பொட்டாஷ்: செடிகளின் வளர்ச்சி மற்றும் பூக்கும் வகையில்
+          தேவையான பொட்டாஷியம் வழங்குகிறது.
         </ListItem>
         <ListItem>
-          Potassium Nitrate: صحیح پودوں کی ترقی کے لئے نائٹروجن اور پوٹاشیم
-          فراہم کرتا ہے۔
+          பொட்டாஷியம் நைட்ரேட்: சரியான செடி வளர்ச்சிக்கான நைட்ரோஜன் மற்றும்
+          பொட்டாஷியம் வழங்குகிறது.
         </ListItem>
       </List>
     </Description>
     <Description>
-      <strong>کیڑے ماردار (Pesticides):</strong>
+      <strong>பூச்சி மருந்து (Pesticides):</strong>
       <List>
         <ListItem>
-          Carbaryl: چاول کی ہسپا کے کنٹرول کے لئے موثر کیڑے ماردار استعمال
-          ہوتا ہے۔
+          கார்பரல்: பொட்டு தானிய ஹிஸ்பாவின் கட்டுப்பாட்டுக்கான செயல்பாடான பூச்சி மருந்து.
         </ListItem>
         <ListItem>
-          Imidacloprid: ہسپا کیچوں اور ان کے کیچوں جیسے چوسنے والے کیڑے کے خلاف
-          ایک سسٹمک کیڑے ماردار ہے۔
+          இமிடாகலோபிரிட்: ஹிஸ்பா பூச்சிகளுக்கு எதிராக ஒரு சிஸ்டெமிக் பூச்சி மருந்து.
         </ListItem>
         <ListItem>
-          Fipronil: چاول کی ہسپا کے ساتھ ساتھ مختلف کیڑے کے خلاف بڑی رقبتی
-          کاروائی پیش کرتا ہے۔
+          ஃபிப்ரோனில்: பொட்டு தானிய ஹிஸ்பாவுடன் பல்வேறு பூச்சிகளுக்கு எதிராக பெரும்பாலான
+          செயல்திறன் செய்கிறது.
         </ListItem>
         <ListItem>
-          Thiamethoxam: ہسپا کیچوں اور ان کے کیچوں کے خلاف ایک نئیکوٹینائیڈ
-          کیڑے ماردار ہے۔
+          தியாமெத்தோக்சாம்: ஹிஸ்பா பூச்சிகளுக்கும் அதன் லார்வாக்களுக்கும் எதிராக ஒரு நைகோடினாய்டு
+          பூச்சி மருந்து.
         </ListItem>
       </List>
     </Description>
-    <Subheading>چاول کی ہسپا کی جلد شناخت (Early Detection of Rice Hispa):</Subheading>
-    <strong>کیڑے ماردار (Pesticides):</strong>
+    <Subheading>பொட்டு தானிய ஹிஸ்பா நொயியின் தொடக்க அறிகுறி (Early Detection of Rice Hispa):</Subheading>
+    <strong>பூச்சி மருந்து (Pesticides):</strong>
     <List>
       <ListItem>
-        چاول کی ہسپا کی علامات کا پتہ لگنے کے بعد فوراً کاربیرل یا امیڈاکلوپرڈ
-        جیسے ہدفمند کیڑے ماردار کا استعمال کریں۔ جلدی اقدامات کا انتظام
-        بڑھنے سے کیچوں کے حملے کو روکا جا سکتا ہے اور نقصان کم ہوسکتا ہے۔
+        பொட்டு தானிய ஹிஸ்பாவின் அறிகுறிகள் கண்டறியப்பட்டதும் உடனடியாக கார்பரல் அல்லது
+        இமிடாகலோபிரிட் போன்ற நோக்கப்பட்ட பூச்சி மருந்துகளைப் பயன்படுத்தவும். விரைவான நடவடிக்கைகள்
+        பூச்சிகளின் தாக்கங்களை தடுப்பதுடன், பாதிப்புகளை குறைக்க உதவும்.
       </ListItem>
     </List>
-    <Subheading>چاول کی ہسپا کی شدید واقعت (Severe Rice Hispa Infestation):</Subheading>
-    <strong>کیڑے ماردار (Pesticides):</strong>
+    <Subheading>பொட்டு தானிய ஹிஸ்பாவின் தீவிர தாக்கம் (Severe Rice Hispa Infestation):</Subheading>
+    <strong>பூச்சி மருந்து (Pesticides):</strong>
     <List>
       <ListItem>
-        شدید چاول کی ہسپا کیچوں کے حملوں کی صورت میں زراعتی ماہرین یا توسیعی
-        خدمات سے مناسب کیڑے ماردار کے تجویزات کے لئے رابطہ کریں۔ وہ ترغیب دیں
-        گے کہ کسی مختلف کیڑے ماردار کے تنوع کے ساتھ ہسپا کیچوں کے لئے مناسب
-        کیڑے ماردار کے مجموعے کو مد نظر رکھتے ہوئے بیماری کا انتظام کیا جا
-        سکتا ہے۔
+        கடுமையான பொட்டு தானிய ஹிஸ்பா பூச்சிகளின் தாக்கங்களில், விவசாய நிபுணர்களை அல்லது
+        நீட்டிப்பு சேவைகளை தொடர்பு கொண்டு தகுந்த பூச்சி மருந்து பரிந்துரைகளை பெறவும்.
+        அவர்கள் கூறுவார்கள், எந்த விதமான பூச்சி மருந்துகளின் வகைகளுடன் ஹிஸ்பா பூச்சிகளுக்கு
+        ஏற்ப சூழ்நிலை அமைத்து, நோயை மேற்பார்வை செய்ய.
       </ListItem>
     </List>
-    <Subheading>حیاتیاتی ناظمہ بندی (Biological Control):</Subheading>
+    <Subheading>உயிரியல் கட்டுப்பாடு (Biological Control):</Subheading>
     <List>
       <ListItem>
-        ہسپا کیچوں اور ان کے کیچوں کے خلاف مکھیاں، بھنڈیں اور پیڑوں جیسے
-        حیاتی دشمنوں کو فروغ دینے کی کوشش کریں۔
+        ஹிஸ்பா பூச்சிகளுக்கு மற்றும் அவற்றின் லார்வாக்களுக்கான உயிரியல் எதிரிகளான ஈக்கள்,
+        முருகுகள் மற்றும் பச்சைத் தேசங்களை ஊக்குவிக்கவும்.
       </ListItem>
     </List>
-    <Subheading>ثقافتی تراکیب (Cultural Practices):</Subheading>
+    <Subheading>வேளாண்மைக் வழிமுறைகள் (Cultural Practices):</Subheading>
     <List>
       <ListItem>
-        چاول کے کھیتوں میں ہسپا کیچوں کی تعداد کم کرنے کے لئے صاف کشائی،
-        مناسب کھیت کا نکاسی اور جھاڑوں کے میزبانوں کے ختم کرنے جیسی تدابیر
-        اختیار کریں۔
+        பொட்டு தானிய மைதானங்களில் ஹிஸ்பா பூச்சிகளின் எண்ணிக்கையை குறைக்கும் வகையில்
+        சுத்தப்படுத்தல், சரியான மண் கழிவு மற்றும் புள்ளிகளின் உபயோகங்களை கண்டறிந்து
+        நடைமுறை செய்யவும்.
       </ListItem>
     </List>
-    <Subheading>کیمیائی ناظمہ بندی (Chemical Control):</Subheading>
+    <Subheading>இரசாயன கட்டுப்பாடு (Chemical Control):</Subheading>
     <List>
       <ListItem>
-        ہسپا کیچوں کی تعداد اقتصادی حد سے زیادہ ہونے پر کاربیرل، امیڈاکلوپرڈ،
-        فپرونل یا تھائمیتھوکسم جیسے کیڑے ماردار کو استعمال کریں۔
+        ஹிஸ்பா பூச்சிகளின் எண்ணிக்கை பொருளாதார முறையில் அதிகரித்தால், கார்பரல்,
+        இமிடாகலோபிரிட், ஃபிப்ரோனில் அல்லது தியாமெத்தோக்சாம் போன்ற பூச்சி மருந்துகளை
+        பயன்படுத்தவும்.
       </ListItem>
     </List>
-    <Subheading>مقامی ضوابط اور حفاظتی تدابیر (Local Regulations and Safety):</Subheading>
+    <Subheading>உள்ளூரமைப்பு விதிகள் மற்றும் பாதுகாப்பு நடைமுறைகள் (Local Regulations and Safety):</Subheading>
     <p>
-      کھاد اور کیڑے ماردار کے استعمال کے بارے میں مقامی ضوابط اور حفاظتی
-      تدابیر کا خیال رکھیں۔
+      உழவன் மற்றும் பூச்சி மருந்துகளின் பயன்பாட்டில் உள்ளூரமைப்பு விதிகள் மற்றும்
+      பாதுகாப்பு நடைமுறைகளை கவனத்தில் வைக்கவும்.
     </p>
     <p>
-      کھاد اور کیڑے ماردار کے استعمال کے دوران شخصی تحفظی سامان (PPE) اور
-      مناسب کارروائی تکنیک استعمال کریں۔
+      உழவன் மற்றும் பூச்சி மருந்துகளின் பயன்படுத்துதலின் போது தனிப்பட்ட பாதுகாப்பு உபகரணங்கள் (PPE)
+      மற்றும் சரியான செயல்பாட்டு தொழில்நுட்பங்களைப் பயன்படுத்தவும்.
     </p>
     <p>
-      ماحول اور غیر ہدف جانداروں پر کسی برا اثر ہونے سے بچنے کے لئے موصوفہ
-      اطمینان کرنا ضروری ہے۔ مقامی زرعی ماہرین یا توسیعی خدمات سے موافق استعمال
-      کے دستورالعمل اور حفاظتی تحاظرات کی مشورہ کریں۔
+      சுற்றுச்சூழல் மற்றும் கைவிடப்பட்ட உயிரிகளின் மீது கெட்ட தாக்கம் ஏற்படாமல்
+      கண்காணிப்பது முக்கியம். உள்ளூர் விவசாய நிபுணர்களிடமிருந்து பாதுகாப்பு மற்றும்
+      பயன்பாட்டு பரிந்துரைகள் பெறவும்.
     </p>
-  </Container>
+</Container>
+
 </Urdu>
 
     </>
