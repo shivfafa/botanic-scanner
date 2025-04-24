@@ -8,9 +8,9 @@ const Show = styled.div`
    top:"10px";
    right: "10px";  */
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     margin-top: 30px;
-    margin-right: 40px;
+    margin-left: 40px;
   }
 `;
 
@@ -50,9 +50,10 @@ const ListItem = styled.li`
 `;
 
 const Urdu = styled.section`
-  direction: rtl;
-  text-align: right;
+  direction: ltr;  /* Change from rtl to ltr for left-to-right text */
+  text-align: left;  /* Align text to the left for Tamil/English */
 `;
+
 
 const English = styled.section``;
 

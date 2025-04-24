@@ -46,9 +46,10 @@ const ListItem = styled.li`
 `;
 
 const Urdu = styled.section`
-  direction: rtl;
-  text-align: right;
+  direction: ltr;  /* Change from rtl to ltr for left-to-right text */
+  text-align: left;  /* Align text to the left for Tamil/English */
 `;
+
 
 const English = styled.section``;
 
