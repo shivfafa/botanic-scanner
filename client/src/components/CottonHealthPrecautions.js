@@ -73,7 +73,7 @@ export default function CottonHealthPrecautions() {
               cursor: "pointer",
             }}
           >
-            <span>{isUrdu ? "اردو" : "English"}</span>
+            <span>{isUrdu ? "தமிழ்" : "English"}</span>
           </label>
           <Switch
             id="language-switch"

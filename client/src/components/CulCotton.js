@@ -521,7 +521,7 @@ export default function CulCotton() {
             cursor: "pointer",
           }}
         >
-          <span>{isUrdu ? "اردو" : "English"}</span>
+          <span>{isUrdu ? "தமிழ்" : "English"}</span>
         </label>
         <Switch
           id="language-switch"

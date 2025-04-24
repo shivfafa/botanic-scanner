@@ -79,7 +79,7 @@ export default function TungroPrecautions() {
               cursor: "pointer",
             }}
           >
-            <span>{isUrdu ? "اردو" : "English"}</span>
+            <span>{isUrdu ? "தமிழ்" : "English"}</span>
           </label>
           <Switch
             id="language-switch"
@@ -97,14 +97,14 @@ export default function TungroPrecautions() {
 
       <English style={{ display: isUrdu ? "none" : "block" }}>
   <Container>
-    <Heading>Rice Tungro Disease (چاول ٹنگرو بیماری)</Heading>
+    <Heading>Rice Tungro Disease (பருப்பு தொங்குரு நோய்)</Heading>
     <Description>
       <strong>Description:</strong> Rice Tungro Disease is a viral disease
       primarily transmitted by leafhoppers that affects rice plants. The virus
       causes yellowing of leaves, stunting of plant growth, and reduced grain
       formation, leading to significant yield losses.
     </Description>
-    <Subheading>Symptoms (علامات):</Subheading>
+    <Subheading>Symptoms (அறிகுறிகள்):</Subheading>
     <List>
       <ListItem>Yellowing and drying of young leaves.</ListItem>
       <ListItem>
@@ -118,49 +118,49 @@ export default function TungroPrecautions() {
         Reduced grain formation and overall poor yield.
       </ListItem>
     </List>
-    <Subheading>Causes (وجہ):</Subheading>
+    <Subheading>Causes (காரணம்):</Subheading>
     Rice Tungro Disease is caused by a complex of viruses that are primarily
     transmitted by green leafhoppers (Nephotettix spp.).
-    <Subheading>Impact on Crops (فصلوں پر اثرات):</Subheading>
+    <Subheading>Impact on Crops (பயிர்கள் மீது தாக்கங்கள்):</Subheading>
     Rice Tungro Disease can cause severe yield losses, leading to economic
     hardship for rice farmers. The disease affects both the quantity and
     quality of the rice harvest.
-    <Subheading>Prevention and Management (روک تھام اور انتظام):</Subheading>
+    <Subheading>Prevention and Management (தடுக்கல் மற்றும் மேலாண்மை):</Subheading>
     While complete eradication of Rice Tungro Disease may not be possible,
     several measures can help manage and minimize its impact:
     <List>
       <ListItem>
-        <strong>1. Resistant Varieties (مزاحمت کی اقسام):</strong> Planting rice
+        <strong>1. Resistant Varieties (எதிர்ப்பு வகைகள்):</strong> Planting rice
         varieties with resistance to Rice Tungro can reduce disease severity.
       </ListItem>
       <ListItem>
-        <strong>2. Elimination of Host Plants (ضیافتی پودوں کی اخراج):</strong>{" "}
+        <strong>2. Elimination of Host Plants (உணவுப் பொருள் செடியின் வெளியீடு):</strong>{" "}
         Remove and destroy any nearby alternative host plants that may harbor
         the virus or the leafhopper vector.
       </ListItem>
       <ListItem>
-        <strong>3. Seed Treatment (بیج کی تدارک):</strong> Treat rice seeds with
+        <strong>3. Seed Treatment (விதை சிகிச்சை):</strong> Treat rice seeds with
         Imidacloprid, Thiamethoxam, Clothianidin, or other appropriate
         pesticides to reduce the chance of transmission from infected seeds.
       </ListItem>
       <ListItem>
-        <strong>4. Biological Control (حیاتیاتی کنٹرول):</strong> Encourage the
+        <strong>4. Biological Control (உயிரியல் கட்டுப்பாடு):</strong> Encourage the
         presence of natural predators and parasites of leafhoppers to control
         their population.
       </ListItem>
       <ListItem>
-        <strong>5. Vector Control (ویکٹر کنٹرول):</strong> Apply appropriate
+        <strong>5. Vector Control (விக்டர் கட்டுப்பாடு):</strong> Apply appropriate
         insecticides to control leafhoppers and prevent their spread of the
         virus.
       </ListItem>
     </List>
-    <Subheading>Fertilizer and Pesticide Use (کھاد اور کیڑے ماردار کا استعمال):</Subheading>
+    <Subheading>Fertilizer and Pesticide Use (சந்தைகள் மற்றும் புழுங்கி மருந்துகளின் பயன்பாடு):</Subheading>
     The use of fertilizers and pesticides can help in managing and reducing
     the impact of Rice Tungro Disease. Proper application of fertilizers and
     targeted use of pesticides can improve the overall health of the rice
     plants and control the leafhopper vector.
     <Description>
-      <strong>Fertilizers (کھاد):</strong>
+      <strong>Fertilizers (சந்தை):</strong>
       <List>
         <ListItem>
           Magnesium Sulfate: Provides magnesium, an essential nutrient for plant
@@ -173,7 +173,7 @@ export default function TungroPrecautions() {
       </List>
     </Description>
     <Description>
-      <strong>Pesticides (کیڑے ماردار):</strong>
+      <strong>Pesticides (பசுமை மருந்துகள்):</strong>
       <List>
         <ListItem>
           Seed treatment with Imidacloprid: Controls insect pests, including the
@@ -189,7 +189,7 @@ export default function TungroPrecautions() {
         </ListItem>
       </List>
     </Description>
-    <Subheading>Early Detection of Rice Tungro (چاول ٹنگرو کی جلد شناخت):</Subheading>
+    <Subheading>Early Detection of Rice Tungro (சோளம் டாங்க்ரோவின் உடனடி அடையாளம்):</Subheading>
     <List>
       <ListItem>
         Monitor rice fields regularly for the presence of leafhoppers and
@@ -200,7 +200,7 @@ export default function TungroPrecautions() {
         disease.
       </ListItem>
     </List>
-    <Subheading>Severe Rice Tungro Outbreak (چاول ٹنگرو کے شدید پھیلاؤ):</Subheading>
+    <Subheading>Severe Rice Tungro Outbreak (சோளம் டாங்க்ரோவின் தீவிர பரவல்):</Subheading>
     <List>
       <ListItem>
         In case of a severe Rice Tungro outbreak, seek assistance from
@@ -208,8 +208,8 @@ export default function TungroPrecautions() {
         management strategies.
       </ListItem>
     </List>
-    <Subheading>Weather and Environmental Factors (موسم اور ماحولیاتی عوامل):</Subheading>
-    <strong>Fertilizers (کھاد):</strong>
+    <Subheading>Weather and Environmental Factors (பருவநிலை மற்றும் சுற்றுச்சூழல் காரணிகள்):</Subheading>
+    <strong>Fertilizers (உரங்கள்):</strong>
     <List>
       <ListItem>
         Adjust the timing and rates of fertilizer applications based on weather
@@ -217,14 +217,14 @@ export default function TungroPrecautions() {
         affect nutrient availability in the soil.
       </ListItem>
     </List>
-    <strong>Pesticides (کیڑے ماردار):</strong>
+    <strong>Pesticides (பசுமை மருந்துகள்):</strong>
     <List>
       <ListItem>
         Apply insecticides proactively when conditions are favorable for
         leafhopper activity and virus transmission.
       </ListItem>
     </List>
-    <Subheading>Local Regulations and Safety (مقامی ضوابط اور حفاظتی تدابیر):</Subheading>
+    <Subheading>Local Regulations and Safety (உள்ளூர் ஒழுங்குகளும் பாதுகாப்பு நடவடிக்கைகளும்):</Subheading>
     <p>
       Always follow local regulations and safety guidelines regarding the use
       of fertilizers and pesticides.
@@ -243,112 +243,108 @@ export default function TungroPrecautions() {
 </English>
 
 <Urdu style={{ display: isUrdu ? "block" : "none" }}>
-  <Container>
-    <Heading>(چاول ٹنگرو بیماری) Rice Tungro Disease</Heading>
-    <Description>
-      <strong>(تفصیل)</strong> چاول ٹنگرو بیماری ایک وائرسی بیماری ہے جو خصوصاً
-      لیفہاپرز کے ذرائع سے چاول کے پودوں کو متاثر کرتی ہے۔ یہ وائرس پتے کی پیلاؤ اور
-      پودے کی رکاوٹی پھلنے کی بنا پر بڑھنے کا شکار ہوتا ہے جس سے فصل کے انقباض اور
-      دانے کی تشکیل میں کمی ہوتی ہے، جس سے کاشت کے نتائج کے لحاظ سے نقصان ہوتا ہے۔
-    </Description>
-    <Subheading>(علامات) Symptoms:</Subheading>
-    <List>
-      <ListItem>پتوں کی پیلاؤ اور سکڑنا۔</ListItem>
-      <ListItem>پودوں کا انقباض جس سے ان کی صحتیت متاثر ہوتی ہے۔</ListItem>
-      <ListItem>شدید صورتحال میں، لیفہاپرز کے کاٹنے کی وجہ سے "ہاپر برن" کا بننا۔</ListItem>
-      <ListItem>دانوں کی تشکیل میں کمی اور فصل کی کل کمی۔</ListItem>
-    </List>
-    <Subheading>(وجہ) Causes:</Subheading>
-    چاول ٹنگرو بیماری ایک مخصوص وائرسوں کی جھلک ہے جو خصوصاً سبز لیفہاپرز (Nephotettix spp.) کے ذرائع سے پھیلتے ہیں۔
-    <Subheading>(فصلوں پر اثرات) Impact on Crops:</Subheading>
-    چاول ٹنگرو بیماری کی بنا پر کاشت کے خسارے کم ہو جاتے ہیں جس سے چاول کے کمی اور
-    معیار پر اثر پڑتا ہے۔
-    <Subheading>(روک تھام اور انتظام) Prevention and Management:</Subheading>
-    چاول ٹنگرو بیماری کے مکمل خاتمے کا حصول ممکن نہیں ہوتا، لیکن چند تدابیر سے اس کے اثرات کو کم کیا جا سکتا ہے:
-    <List>
-      <ListItem>
-        <strong>1. مزاحمت کی اقسام (Resistant Varieties):</strong> چاول ٹنگرو کے خلاف مزاحمت رکھنے والے چاول کی کاشت کریں۔
-      </ListItem>
-      <ListItem>
-        <strong>2. ضیافتی پودوں کی اخراج (Elimination of Host Plants):</strong>{" "}
-        متاثرہ بیماری کے وائرس یا لیفہاپرز ویکٹر کا پتے کے قریب قریبی مخصوص میزاحمت رکھنے والے پودے کو اتاریں اور تباہ کریں۔
-      </ListItem>
-      <ListItem>
-        <strong>3. بیج کی تدارک (Seed Treatment):</strong> چاول کے بیجوں کو Imidacloprid، Thiamethoxam، Clothianidin، یا دوسرے مناسب کیڑے ماردار سے علاج کریں تاکہ ان میں موجود وائرس کا پھیلنے کا خطرہ کم ہو۔
-      </ListItem>
-      <ListItem>
-        <strong>4. حیاتیاتی کنٹرول (Biological Control):</strong> لیفہاپرز کے قدرتی خوفناک خوشامد اور دشمن جانوروں کی موجودگی کو بڑھائیں تاکہ ان کی تعداد کو کنٹرول کیا جا سکے۔
-      </ListItem>
-      <ListItem>
-        <strong>5. ویکٹر کنٹرول (Vector Control):</strong> وائرس کے پھیلنے کو روکنے کے لئے مناسب کیڑے ماردار کا استعمال کریں۔
-      </ListItem>
-    </List>
-    <Subheading>(کھاد اور کیڑے ماردار کا استعمال) Fertilizer and Pesticide Use:</Subheading>
-    کھاد اور کیڑے ماردار کا استعمال چاول ٹنگرو بیماری کو کنٹرول کرنے اور اس کے اثرات کو کم کرنے میں مدد فراہم کر سکتا ہے۔ کھاد کے موزوں استعمال اور کیڑے ماردار کے موجہد استعمال سے چاول کے پودوں کی کل صحتیت میں بہتری حاصل کی جا سکتی ہے۔
-    <Description>
-      <strong>کھاد (Fertilizers):</strong>
-      <List>
-        <ListItem>
-          Magnesium Sulfate: پودوں کے فوٹو سنتھیس اور انزائم کی سرگرمی کے لئے ضروری معدنیات فراہم کرتا ہے۔
-        </ListItem>
-        <ListItem>
-          Magnesium Nitrate: صحیح پودوں کی نشو و نمو کے لئے نائٹروجن اور میگنیشیم فراہم کرتا ہے۔
-        </ListItem>
-      </List>
-    </Description>
-    <Description>
-      <strong>کیڑے ماردار (Pesticides):</strong>
-      <List>
-        <ListItem>
-          Imidacloprid سے بیج کی تدارک: پودوں کی نشو و نمو کے ابتدائی مراحل میں کیڑے ماردار، لیفہاپرز، اور دوسرے کیڑے مار کو کنٹرول کرتا ہے۔
-        </ListItem>
-        <ListItem>
-          Thiamethoxam سے بیج کی تدارک: لیفہاپرز کے قدرتی خوفناک اور موجودہ بیماری سے وائرس کے پھیلنے سے بچاو فراہم کرتا ہے۔
-        </ListItem>
-        <ListItem>
-          Clothianidin سے بیج کی تدارک: لیفہاپرز اور دوسرے کیڑے ماردار سے بچاو کے لئے نظامی تحفظ فراہم کرتا ہے۔
-        </ListItem>
-      </List>
-    </Description>
-    <Subheading>(چاول ٹنگرو کی جلد شناخت) Early Detection of Rice Tungro:</Subheading>
+<Container>
+  <Heading>சோளம் டாங்க்ரோவின் நோய் (Rice Tungro Disease)</Heading>
+  <Description>
+    <strong>விளக்கம்:</strong> சோளம் டாங்க்ரோ நோய் என்பது ஒரு வைரஸ் நோயாகும், இது முக்கியமாக பத்திரித்தல் ஆயிலாளர்களின் மூலமாக சோளம் தாவரங்களை பாதிக்கிறது. இந்த வைரஸ் இலைகளின் எளிதில் வளைந்து விடுவதையும், தாவரத்தின் வளர்ச்சி தடைபட்டுவிடுவதையும் உருவாக்குகிறது, இதனால் பயிரின் ஆளுகையில் குறைபாடு மற்றும் தான்களின் உருவாக்கத்தில் குறைபாடு ஏற்படுகிறது, இது பயிரின் முடிவுகளில் சேதத்தை ஏற்படுத்துகிறது.
+  </Description>
+  <Subheading>ஆலமைகள் (Symptoms):</Subheading>
+  <List>
+    <ListItem>இலைகளின் வளைந்துகொள்வதும் குருட்டும் ஆகுவதும்.</ListItem>
+    <ListItem>தாவரங்கள் சுருங்கி, அவற்றின் ஆரோக்கியம் பாதிக்கப்படுவது.</ListItem>
+    <ListItem>கடுமையான நிலைகளில், பத்திரித்தல் ஆயிலாளர்களின் குத்தும் காரணமாக "ஹாப்பர் பர்ன்" உருவாகும்.</ListItem>
+    <ListItem>தான்களின் உருவாக்கத்தில் குறைபாடு மற்றும் பயிரின் மொத்த குறைபாடு.</ListItem>
+  </List>
+  <Subheading>காரணங்கள் (Causes):</Subheading>
+  சோளம் டாங்க்ரோ நோய் என்பது குறிப்பிட்ட வைரசுகளின் மூலமாக ஏற்படும் ஒரு நோய் ஆகும், இது முக்கியமாக பசும்பத்திரித்தல் ஆயிலாளர்கள் (Nephotettix spp.) மூலம் பரவுகிறது.
+  <Subheading>பயிர்களுக்கான தாக்கங்கள் (Impact on Crops):</Subheading>
+  சோளம் டாங்க்ரோ நோயின் காரணமாக பயிர்களின் இழப்பு குறைகிறது, இது சோளத்தின் அளவும் தரமும் பாதிக்கிறது.
+  <Subheading>தடுக்க மற்றும் மேலாண்மை (Prevention and Management):</Subheading>
+  சோளம் டாங்க்ரோ நோயின் முழுமையான போக்கு இருக்க முடியாது, ஆனால் சில முன்னெச்சரிக்கை நடவடிக்கைகளின் மூலம் இதன் தாக்கங்களை குறைக்க முடியும்:
+  <List>
+    <ListItem>
+      <strong>1. எதிர்ப்பு வகைகள் (Resistant Varieties):</strong> சோளம் டாங்க்ரோ நோய்க்கு எதிர்ப்பு உள்ள சோளம் வகைகளை பயிரிடுங்கள்.
+    </ListItem>
+    <ListItem>
+      <strong>2. வரவேற்பு தாவரங்களை நீக்குதல் (Elimination of Host Plants):</strong> பாதிக்கப்பட்ட வைரசுகளோ அல்லது பத்திரித்தல் ஆயிலாளர்களின் வேக்டர் அருகிலுள்ள பரிமாண தாவரங்களை கீறி அழிக்கவும்.
+    </ListItem>
+    <ListItem>
+      <strong>3. விதை சிகிச்சை (Seed Treatment):</strong> சோளம் விதைகளை Imidacloprid, Thiamethoxam, Clothianidin அல்லது பிற பொருத்தமான பூச்சி நாசினி பிசின்களுடன் சிகிச்சை செய்கின்றனர், இதனால் வைரஸ் பரவுவதை தடுக்க முடியும்.
+    </ListItem>
+    <ListItem>
+      <strong>4. जैविक नियंत्रण (Biological Control):</strong> பத்திரித்தல் ஆயிலாளர்களின் இயற்கையான நச்சுகளை மற்றும் எதிரி உயிரினங்களின் அடையாளங்களை அதிகரிக்கவும், அவற்றின் எண்ணிக்கையை கட்டுப்படுத்தவும்.
+    </ListItem>
+    <ListItem>
+      <strong>5. வேக்டர் கட்டுப்பாடு (Vector Control):</strong> வைரஸின் பரவலை தடுக்க பொருத்தமான பூச்சி நாசினி பயன்பாட்டை செய்க.
+    </ListItem>
+  </List>
+  <Subheading>கோடிகள் மற்றும் பூச்சி நாசினி பயன்பாடு (Fertilizer and Pesticide Use):</Subheading>
+  கோடிகள் மற்றும் பூச்சி நாசினி பயன்பாடு சோளம் டாங்க்ரோ நோயை கட்டுப்படுத்தவும், அதன் தாக்கங்களை குறைக்கவும் உதவுகிறது. கோடிகளை சரியான முறையில் பயன்படுத்தி, பூச்சி நாசினி கொண்டு செயல் படுத்துவதன் மூலம் சோளம் தாவரத்தின் முழுமையான ஆரோக்கியத்தை மேம்படுத்த முடியும்.
+  <Description>
+    <strong>கோடிகள் (Fertilizers):</strong>
     <List>
       <ListItem>
-        روزانہ چاول کے کھیتوں کا موقعہ جائزہ لیں تاکہ لیفہاپرز کی موجودگی اور پتوں کی پیلاؤ کی علامات کا اندازہ لگایا جا سکے۔
+        மெக்னேசியம் சல்பேட்: தாவரங்களின் புகைப்படத் சித்திரங்களை மற்றும் எண்சைம் செயல்பாட்டை தேவையான கனிமங்களை வழங்குகிறது.
       </ListItem>
       <ListItem>
-        اگر جلد شناخت کی جلد شناخت کی جائے، تو فوراً کامیاب طریقہ کار اپنائیں تاکہ بیماری کے پھیلنے کو روکا جا سکے۔
+        மெக்னேசியம் நைட்ரேட்: சரியான தாவர வளர்ச்சிக்கு நைட்ரோஜன் மற்றும் மெக்னேசியம் வழங்குகிறது.
       </ListItem>
     </List>
-    <Subheading>(چاول ٹنگرو کے شدید پھیلاؤ) Severe Rice Tungro Outbreak:</Subheading>
+  </Description>
+  <Description>
+    <strong>பூச்சி நாசினி (Pesticides):</strong>
     <List>
       <ListItem>
-        اگر چاول ٹنگرو کا شدید پھیلاؤ ہوتا ہے، تو زراعتی ماہرین یا توسیعی خدمات سے رابطہ کریں تاکہ مناسب کیڑے ماردار انتظامیہ کے لئے مدد حاصل کی جا سکے۔
+        Imidacloprid மூலம் விதை சிகிச்சை: தாவரங்களின் ஆரம்ப வளர்ச்சி நிலைகளில் பூச்சிகள், பத்திரித்தல் ஆயிலாளர்கள் மற்றும் பிற பூச்சிகளைக் கட்டுப்படுத்துகிறது.
       </ListItem>
-    </List>
-    <Subheading>(موسم اور ماحولیاتی عوامل) Weather and Environmental Factors:</Subheading>
-    <strong>کھاد (Fertilizers):</strong>
-    <List>
       <ListItem>
-        موسمی حالات کے مطابق کھاد کی درست تنظیم اور درجہ بندی کریں۔ اسٹریکیس مین اشرافیہ میں بہت زیادہ بارش کے دوران، مٹی میں موجود معدنیات کی دستیابی کو مد نظر رکھیں۔
+        Thiamethoxam மூலம் விதை சிகிச்சை: பத்திரித்தல் ஆயிலாளர்களின் இயற்கையான எதிரிகள் மற்றும் தற்போதைய நோயின் பரவலை தடுக்கும்.
       </ListItem>
-    </List>
-    <strong>کیڑے ماردار (Pesticides):</strong>
-    <List>
       <ListItem>
-        لیفہاپرز کی موجودگی اور وائرس کے پھیلنے کے لئے مناسب وقت پر کیڑے ماردار کا استعمال کریں۔
+        Clothianidin மூலம் விதை சிகிச்சை: பத்திரித்தல் ஆயிலாளர்களிடமிருந்து மற்றும் பிற பூச்சிகளிடமிருந்து பாதுகாப்பு வழங்குகிறது.
       </ListItem>
     </List>
-    <Subheading>(مقامی ضوابط اور حفاظتی تدابیر) Local Regulations and Safety:</Subheading>
-    <p>
-      ہمیشہ کھاد اور کیڑے ماردار کے استعمال کے مقامی ضوابط اور حفاظتی تدابیر کا پیرو کریں۔
-    </p>
-    <p>
-      کھاد اور کیڑے ماردار کو ہینڈل کرنے اور اس کا استعمال کرتے وقت معائنہ شدہ پروٹیکٹو تھیکن کے استعمال کریں۔
-    </p>
-    <p>
-      ماحول اور غیر ہدف جانوروں پر منفی اثرات سے بچنے کے لئے موصوف کھاد اور کیڑے ماردار کے تجویز کار کے ساتھ مشورہ کریں۔
-    </p>
-  </Container>
+  </Description>
+  <Subheading>சோளம் டாங்க்ரோ நோயின் ஆரம்ப அறிதல் (Early Detection of Rice Tungro):</Subheading>
+  <List>
+    <ListItem>
+      சோளம் வயல்களைக் குறும்படமாக பரிசோதிக்கவும், பத்திரித்தல் ஆயிலாளர்களின் எத்தனை மற்றும் இலைகளின் வளைவுக் குறியீட்டுகளை கண்டறியவும்.
+    </ListItem>
+    <ListItem>
+      ஆரம்ப அறிதல் நடந்துவிட்டால், உடனடியாக குறைபாடுகள் பரவாமல் தடுக்க செயற்கை முறைகளை பின்பற்றவும்.
+    </ListItem>
+  </List>
+  <Subheading>சோளம் டாங்க்ரோ நோயின் தீவிர பரவல் (Severe Rice Tungro Outbreak):</Subheading>
+  <List>
+    <ListItem>
+      சோளம் டாங்க்ரோ நோயின் தீவிர பரவல் நடந்துவிட்டால், வேளாண்மை நிபுணர்களோ அல்லது விரிவாக்க சேவைகளோ மூலம், பாதிக்கப்பட்ட பூச்சி நாசினி மேலாண்மைக்கு உதவி பெறவும்.
+    </ListItem>
+  </List>
+  <Subheading>வானிலை மற்றும் சூழல் காரணி (Weather and Environmental Factors):</Subheading>
+  <strong>கோடிகள் (Fertilizers):</strong>
+  <List>
+    <ListItem>
+      வானிலை அடிப்படையில், சரியான கோடியின் அமைப்பு மற்றும் தரவுகளை சரிசெய்யவும். மிகப்பெரிய மழையை முன் சிந்தனை செய்து, மண்ணில் உள்ள கனிமத் திறனை கணக்கில் எடுத்துக் கொள்ளவும்.
+    </ListItem>
+  </List>
+  <strong>பூச்சி நாசினி (Pesticides):</strong>
+  <List>
+    <ListItem>
+      பத்திரித்தல் ஆயிலாளர்களின் இருப்பின், வைரஸ் பரவலை தடுக்கும் போது சரியான நேரத்தில் பூச்சி நாசினி பயன்படுத்தவும்.
+    </ListItem>
+  </List>
+  <Subheading>உள்ளூர் சட்டங்கள் மற்றும் பாதுகாப்பு நடைமுறைகள் (Local Regulations and Safety):</Subheading>
+  <p>
+    எப்பொழுதும், கோடிகள் மற்றும் பூச்சி நாசினி பயன்பாட்டு உள்ளூர் சட்டங்கள் மற்றும் பாதுகாப்பு நடைமுறைகளை பின்பற்றவும்.
+  </p>
+  <p>
+    கோடிகள் மற்றும் பூச்சி நாசினிகளை கையாளும்போது, பரிசோதிக்கப்பட்ட பாதுகாப்பு உபகரணங்களுடன் பயன்பாடு செய்யவும்.
+  </p>
+  <p>
+    சுற்றுச்சூழலிலும், இலக்கா இல்லாத உயிரினங்களும் பாதிக்கப்படாமல், பரிந்துரைக்கப்பட்ட நிபுணர்களுடன் ஆலோசிக்கவும்.
+  </p>
+</Container>
+
 </Urdu>
 
     </>

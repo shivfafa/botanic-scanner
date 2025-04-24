@@ -79,7 +79,7 @@ export default function SBActerialBlightPrecautions() {
               cursor: "pointer",
             }}
           >
-            <span>{isUrdu ? "اردو" : "English"}</span>
+            <span>{isUrdu ? "தமிழ்" : "English"}</span>
           </label>
           <Switch
             id="language-switch"
@@ -99,7 +99,7 @@ export default function SBActerialBlightPrecautions() {
   <Container>
     <Heading>Sugarcane Bacterial Blight (گنا بیکٹیریل بلائٹ)</Heading>
     <Description>
-      <strong>Description (تفصیل):</strong> Sugarcane bacterial blight is a
+      <strong>Description (விளக்கம்):</strong> Sugarcane bacterial blight is a
       serious disease that affects sugarcane plants. It is caused by the
       bacterium Xanthomonas albilineans, which enters the plant through wounds or
       natural openings. The disease is characterized by white or yellow streaks
@@ -107,7 +107,7 @@ export default function SBActerialBlightPrecautions() {
       progresses, the leaves may exhibit a "scalded" appearance. Sugarcane
       bacterial blight can lead to reduced cane yield and economic losses for
       sugarcane farmers.
-      <Subheading>Symptoms (علامات):</Subheading>
+      <Subheading>Symptoms (அறிகுறிகள்):</Subheading>
       The symptoms of sugarcane bacterial blight include:
     </Description>
     <List>
@@ -118,7 +118,7 @@ export default function SBActerialBlightPrecautions() {
       </ListItem>
       <ListItem>Reduced cane yield and plant vigor.</ListItem>
     </List>
-    <Subheading>Causes (وجہ):</Subheading>
+    <Subheading>Causes (காரணம்):</Subheading>
     Sugarcane bacterial blight is caused by the bacterium Xanthomonas albilineans.
     The bacterium infects the sugarcane plant through wounds or natural openings,
     such as leaf scars or stomata. Once inside the plant, it multiplies and spreads,
@@ -154,12 +154,12 @@ export default function SBActerialBlightPrecautions() {
         agricultural experts for proper fungicide selection and application guidelines.
       </ListItem>
     </List>
-    <Subheading>Fertilizer and Pesticide Use (کھاد اور کیڑے ماردار کا استعمال):</Subheading>
+    <Subheading>Fertilizer and Pesticide Use (சந்தைகள் மற்றும் புழுங்கி மருந்துகளின் பயன்பாடு):</Subheading>
     The use of fertilizers and pesticides can help in managing and reducing the impact
     of sugarcane bacterial blight. Proper application of fertilizers can improve the
     overall health of the plants, making them more resilient to infections.
     <Description>
-      <strong>Fertilizers (کھاد):</strong>
+      <strong>Fertilizers (சந்தை):</strong>
       <List>
         <ListItem>Urea: Provides nitrogen, essential for plant growth and development.</ListItem>
         <ListItem>Ammonium Sulfate: Supplies nitrogen and promotes healthy foliage.</ListItem>
@@ -167,7 +167,7 @@ export default function SBActerialBlightPrecautions() {
       </List>
     </Description>
     <Description>
-      <strong>Pesticides (کیڑے ماردار):</strong>
+      <strong>Pesticides (பசுமை மருந்துகள்):</strong>
       <List>
         <ListItem>
           Copper-based Fungicides: Provide systemic protection and control bacterial
@@ -264,124 +264,93 @@ export default function SBActerialBlightPrecautions() {
 </English>
 
 <Urdu style={{ display: isUrdu ? "block" : "none" }}>
-  <Container>
-    <Heading>گنا بیکٹیریل بلائٹ (Sugarcane Bacterial Blight)</Heading>
+<Container>
+    <Heading>சர்க்கரைத்தேரி பாக்டீரியா பிளைட் (Sugarcane Bacterial Blight)</Heading>
     <Description>
-      <strong>تفصیل (Description):</strong> گنا بیکٹیریل بلائٹ ایک تشددناک بیماری ہے جو گنے کے پودوں کو متاثر کرتی ہے۔ یہ بیماری جراثیم زندہ یا طبیعی راہوں سے داخل ہوتی ہے، جیسے کے پتے کے نشانات یا سٹومیٹا۔ بیماری کی علامات میں پتوں پر سفید یا پیلا لکیروں کی پیداوار ہے، جو آخرکار بھورا ہو جاتا ہے اور سکڑ جاتا ہے۔ بیماری کی تسری کے ساتھ-ساتھ پتے بکھرے ہوئے حالت میں ہو سکتے ہیں۔ گنا بیکٹیریل بلائٹ گنے کی پیداوار کو کم کرتی ہے اور گنے کے کاشتکاروں کے لئے معاشی نقصانات پیدا کر سکتی ہے۔
-      <Subheading>علامات (Symptoms):</Subheading>
-      گنا بیکٹیریل بلائٹ کی علامات میں شامل ہیں:
+      <strong>விளக்கம் (Description):</strong> சர்க்கரைத்தேரி பாக்டீரியா பிளைட் என்பது சர்க்கரைப்பயிர்களின் பாவனையை பாதிக்கும் ஒரு தீவிர நோயாகும். இந்த நோய் கிருமிகள் நேரடியாக அல்லது இயற்கை வழிகளில் நுழைகின்றன, உதாரணமாக, இலையின் குறியீட்டுகள் அல்லது ஸ்டோமாடாவுக்கு மூலம். நோயின் அறிகுறிகளாக வெள்ளை அல்லது மஞ்சள் நிறத்தில் கோடுகளின் தோற்றம், அதன்பின் அது பழுப்பு நிறம் ஆகி சுருங்குவது. நோய் அதிகரிக்கும்போது, இலைகள் பரவலாக காணப்படலாம். சர்க்கரைத்தேரி பாக்டீரியா பிளைட் சர்க்கரைப்பயிரின் உற்பத்தியை குறைத்து, விவசாயிகளுக்கு பொருளாதார பாதிப்பை ஏற்படுத்தலாம்.
+      <Subheading>அறிகுறிகள் (Symptoms):</Subheading>
+      சர்க்கரைத்தேரி பாக்டீரியா பிளைட்டின் அறிகுறிகளாக உள்ளன:
     </Description>
     <List>
-      <ListItem>پتوں پر سفید یا پیلا لکیروں کی پیداوار۔</ListItem>
-      <ListItem>لکیروں کا بھورا ہوجانا اور سکڑ جانا۔</ListItem>
-      <ListItem>
-        پتے بکھرے ہوئے حالت میں نظر آنا جو بیکٹیریا کی بیماری کی بنا پر ہے۔
-      </ListItem>
-      <ListItem>گنے کی پیداوار میں کمی اور پودے کی زندگی میں کمی۔</ListItem>
+      <ListItem>இலையில் வெள்ளை அல்லது மஞ்சள் நிற கோடுகள் தோற்றம்.</ListItem>
+      <ListItem>கோடுகளின் பழுப்பு நிறம் மற்றும் சுருங்குதல்.</ListItem>
+      <ListItem>இலைகள் பரவலாக காணப்படுதல், இது பாக்டீரிய நோயின் காரணமாக ஏற்படும்.</ListItem>
+      <ListItem>சர்க்கரைப்பயிரின் உற்பத்தி குறைவு மற்றும் செடி வாழ்வின் குறைவு.</ListItem>
     </List>
-    <Subheading>وجہ (Causes):</Subheading>
-    گنا بیکٹیریل بلائٹ کا سبب جراثیم Xanthomonas albilineans ہے۔ یہ جراثیم پودے کو نشانات یا سٹومیٹا کے ذریعہ متاثر کرتے ہیں، جیسے کے پتے کے نشانات یا سٹومیٹا۔ ایک بار جب یہ پودے کے اندر داخل ہوجاتا ہے، یہ اضافے کی تعداد بڑھاتا ہے اور پھیل جاتا ہے، جس سے پتوں پر دیکھی جانے والی خصوصی علامات پیدا ہوتی ہیں۔
-    <Subheading>زرعی پیداوار پر اثرات (Impact on Crops):</Subheading>
-    گنا بیکٹیریل بلائٹ گنے کی کاشتکاری پر اثرات انتہائی منفی ہو سکتے ہیں۔ یہ بیماری پتوں کو نقصان پہنچاتی ہے اور پودے کی فوٹوسنتھیٹک صلاحیت کو کم کرتی ہے، جو کے پیداوار میں کمی اور حاصل شدہ فصل میں شکر کی مقدار کم ہونے کا سبب بنتی ہے۔ شدید انفیکشن کی صورت میں، کاشتکاروں کو بڑے معاشی نقصانات کا سامنا کرنا پڑ سکتا ہے۔
-    <Subheading>روک تھام اور انتظامات (Prevention and Management):</Subheading>
-    گنا بیکٹیریل بلائٹ کے لئے کوئی مستقیم علاج نہیں ہے، لیکن بیماری کے اثرات کو کم کرنے اور مزید پھیلنے سے روکنے کے لئے کئی روک تھام اور انتظامات استعمال کی جا سکتی ہیں۔ ان اقدامات میں شامل ہیں:
+    <Subheading>காரணங்கள் (Causes):</Subheading>
+    சர்க்கரைத்தேரி பாக்டீரியா பிளைட் இன் காரணம் Xanthomonas albilineans என்ற பாக்டீரியா ஆகும். இந்த பாக்டீரியா செடிக்கு குறியீட்டுகள் அல்லது ஸ்டோமாடா மூலம் பாதிப்பை ஏற்படுத்துகின்றது. ஒருமுறை இது செடியின் உள்ளே நுழைந்ததும், அது வேகமாக பெருக்கிக்கொண்டு பரவுகிறது, இதனால் இலையில் குறிப்பிட்ட அறிகுறிகள் தோன்றுகின்றன.
+    <Subheading>விவசாய உற்பத்தி மீது பாதிப்புகள் (Impact on Crops):</Subheading>
+    சர்க்கரைத்தேரி பாக்டீரியா பிளைட் சர்க்கரைப்பயிரின் விவசாயத்தில் மிக மோசமான பாதிப்புகளை ஏற்படுத்தலாம். இந்த நோய் இலையை சேதப்படுத்தி செடியின் பூச்சி சுழற்சி திறனைக் குறைக்கின்றது, இதனால் உற்பத்தி குறைந்து, கிடைக்கும் பயிரில் சர்க்கரையின் அளவு குறைகின்றது. கடுமையான பாதிப்பின் போது விவசாயிகளுக்கு பொருளாதார இழப்புகள் ஏற்படலாம்.
+    <Subheading>தடுப்பு மற்றும் மேலாண்மை (Prevention and Management):</Subheading>
+    சர்க்கரைத்தேரி பாக்டீரியா பிளைட் எவ்வாறு முழுமையான முறையில் குணமடைந்து குணப்படுத்தப்படும் என்றால், நோயின் பாதிப்பை குறைக்கும் மற்றும் மேலும் பரவலை தடுக்கும் பல தடுப்பு மற்றும் மேலாண்மை நடவடிக்கைகள் மேற்கொள்ளப்படலாம். இதில் உள்ளவை:
     <List>
       <ListItem>
-        <strong>1. متعدد مضبوط اقسام کی کاشت:</strong> گنے کی کاشت کے لئے ایسے اقسام کو منتخب کریں جو بیکٹیریل بلائٹ کے خلاف مستحکم ہوں تاکہ انفیکشن کے خطرے کو کم کیا جاسکے۔
+        <strong>1. பலவந்த வகைகளின் பயிர்ச்சி:</strong> பாக்டீரியா பிளைட்டுக்கு எதிரான முந்தைய நிலைகள் கொண்ட சர்க்கரைப்பயிரின் வகைகளை தேர்வு செய்யவும், இதனால் பாதிப்பின் ஆபத்து குறைக்கப்படலாம்.
       </ListItem>
       <ListItem>
-        <strong>2. صفائی:</strong> متاثرہ پودے کے مواد کو ہٹا کر تباہ کریں تاکہ جراثیم کا پھیلاؤ روکا جاسکے۔ گنے کاشتکاری کو ایسی جگہوں پر گنا کاشت نہ کرنے کا سیلیبیسٹی کریں جہاں بیکٹیریل بلائٹ کی پہلے سے ہی تاریخ ہو۔
+        <strong>2. சுத்தம்:</strong> பாதிக்கப்பட்ட செடி பொருட்களை அகற்றுவதன் மூலம் பாக்டீரியாவின் பரவலைத் தடுக்கும். சர்க்கரைத் தோட்டங்களில் பாக்டீரியா பிளைட் பரவிய இடங்களில் பயிர்ச்சியை தவிர்க்கவும்.
       </ListItem>
       <ListItem>
-        <strong>3. مناسب آبپاشی:</strong> معمولی آبپاشی کے انداز کو قائم رکھیں تاکہ پودوں کو اضافی پانی کے دباؤ سے بچایا جا سکے، جو کے انفیکشن کے خطرے کو کم کرتا ہے۔
+        <strong>3. சரியான தண்ணீர் புழக்கம்:</strong> செடிகளை மிக அதிக நீரேற்றத்திலிருந்து பாதுகாக்க குறைந்த அளவு நீர்ப்பாசன முறையை ஏற்கவும், இது பாக்டீரியா பரவலை குறைக்கும்.
       </ListItem>
       <ListItem>
-        <strong>4. کاپر سے بنا ہوا فنگی سائیڈس:</strong> بیکٹیریل بلائٹ سے محفوظ رکھنے کے لئے کاپر سے بنا ہوا فنگی سائیڈس استعمال کریں۔ درست فنگی سائیڈس کا انتخاب اور استعمال کے لئے زرعی ماہرین سے مشورہ کریں۔
+        <strong>4. கோப்பர் அடிப்படையிலான பூச்சிக்கொல்லிகள்:</strong> பாக்டீரியா பிளைட்டுக்கு எதிராக கோப்பர் அடிப்படையிலான பூச்சிக்கொல்லிகள் பயன்படுத்தவும். சரியான பூச்சிக்கொல்லி தேர்வு மற்றும் பயன்படுத்துவதற்கான விவசாய ஆலோசனைகளைப் பெறவும்.
       </ListItem>
     </List>
-    <Subheading>کھاد اور کیڑے ماردار کا استعمال (Fertilizer and Pesticide Use):</Subheading>
-    کھاد اور کیڑے ماردار کا استعمال گنا بیکٹیریل بلائٹ کو کنٹرول کرنے میں مدد فراہم کرسکتا ہے۔ کھاد کے مناسب استعمال سے پودوں کی کل صحت میں بہتری ہوسکتی ہے، جس سے وہ انفیکشن سے مزید مستحکم ہوتے ہیں۔
+    <Subheading>சர்க்கரைப்பயிரின் உரமும் பூச்சிக்கொல்லி பயன்பாடு (Fertilizer and Pesticide Use):</Subheading>
+    சர்க்கரைத்தேரி பாக்டீரியா பிளைட்டை கட்டுப்படுத்த உரங்களும் பூச்சிக்கொல்லிகளும் உதவலாம். உரங்களின் சரியான பயன்பாட்டினால் செடியின் மொத்த ஆரோக்கியத்தை மேம்படுத்துவதன் மூலம் அவை நோய் எதிர்ப்பு அதிகரிக்கின்றன.
     <Description>
-      <strong>کھاد (Fertilizers):</strong>
+      <strong>உரங்கள் (Fertilizers):</strong>
       <List>
-        <ListItem>یوریا: پودوں کی بڑھتے ہوئے اور ترقی کے لئے ضروری نائٹروجن فراہم کرتا ہے۔</ListItem>
-        <ListItem>امونیم سلفیٹ: نائٹروجن فراہم کرتا ہے اور صحیح پتوں کی تروتازہ ترقی کو فروغ دیتا ہے۔</ListItem>
-        <ListItem>امونیم فاسفیٹ: جڑوں کی ترقی کے لئے ضروری فاسفورس فراہم کرتا ہے۔</ListItem>
+        <ListItem>உரியா: செடிகளின் வளர்ச்சிக்கும் முன்னேற்றத்திற்கும் தேவையான நைட்ரஜனை வழங்குகிறது.</ListItem>
+        <ListItem>அமோனியம் சல்பேட்: நைட்ரஜனை வழங்குகிறது மற்றும் சரியான இலையின் புத்துணர்வு வளர்ச்சியை ஊக்குவிக்கிறது.</ListItem>
+        <ListItem>அமோனியம் பாஸ்பேட்: köணின் வளர்ச்சிக்கான தேவையான பாஸ்பரஸ் வழங்குகிறது.</ListItem>
       </List>
     </Description>
     <Description>
-      <strong>کیڑے ماردار (Pesticides):</strong>
+      <strong>பூச்சிக்கொல்லிகள் (Pesticides):</strong>
       <List>
-        <ListItem>کاپر سے بنا ہوا فنگی سائیڈس: پودوں کے اندر جراثیم کے فروغ کو روکتے ہیں اور بیکٹیریل بلائٹ کے خلاف محفوظ رکھتے ہیں۔</ListItem>
-        <ListItem>استریپٹومائیسن: جراثیمی عدویات کے خلاف مؤثر اینٹی بائیوٹک۔</ListItem>
-        <ListItem>کاسوگامائسن: جراثیمی بیماریوں کے کنٹرول کے لئے استعمال ہونے والا بیکٹیرائیڈ۔</ListItem>
+        <ListItem>கோப்பரின் அடிப்படையில் உள்ள பூச்சிக்கொல்லிகள்: செடிகளின் உள்ளே பாக்டீரியாவின் வளர்ச்சியைத் தடுப்பவை மற்றும் பாக்டீரியா பிளைட் எதிராக பாதுகாப்பை வழங்கும்.</ListItem>
+        <ListItem>ஸ்ட்ரெப்டோமைசின்: பாக்டீரியா எதிராக பலவீனமான எண்டி-பயோடிக்ஸ்.</ListItem>
+        <ListItem>காசோகாமைசின்: பாக்டீரியா நோய்களை கட்டுப்படுத்த பயன்படும் பாக்டெரயிட்.</ListItem>
       </List>
     </Description>
-    <Subheading>گنا بیکٹیریل بلائٹ کی جلدی شناخت (Early Detection of Sugarcane Bacterial Blight):</Subheading>
-    <strong>کھاد (Fertilizers):</strong>
+    <Subheading>சர்க்கரைத்தேரி பாக்டீரியா பிளைட் அடையாளம் கண்டு பிடிப்பு (Early Detection of Sugarcane Bacterial Blight):</Subheading>
+    <strong>உரங்கள் (Fertilizers):</strong>
     <List>
       <ListItem>
-        گنے کے فرصتی انداز میں نائٹروجن پر مبنی کھاد کی کمی کریں، جیسے کے یوریا یا امونیم سلفیٹ، تاکہ گنے کی بہتری کی حمایت کی جاسکے اور وہ بیماری کے خطرے کا سامنا کرسکے۔
+        சர்க்கரைப்பயிரின் முன்னேற்றத்தைப் பெற உதவும் மற்றும் நோய் எதிர்ப்பு மையமாக்க பயன்படுத்த உரங்களை பரிந்துரைக்கவும்.
       </ListItem>
     </List>
-    <strong>کیڑے ماردار (Pesticides):</strong>
+    <strong>பூச்சிக்கொல்லிகள் (Pesticides):</strong>
     <List>
       <ListItem>
-        گنے کے بیکٹیریل بلائٹ کے علامات کا تشخیص ہوتے ہی، فوراً استریپٹومائیسن یا کاسوگامائسن جیسے نشانے کار کیڑے ماردار کا استعمال کریں۔ جلدی انٹروینشن بیماری کے دوسرے پودوں تک پھیلنے سے روکا جا سکتا ہے اور نقصان کو کم کیا جاسکتا ہے۔
-      </ListItem>
-    </List>
-
-    <Subheading>شدید گنا بیکٹیریل بلائٹ کے عروج (Severe Sugarcane Bacterial Blight Outbreak):</Subheading>
-    <strong>کھاد (Fertilizers):</strong>
-    <List>
-      <ListItem>
-        شدید گنا بیکٹیریل بلائٹ کے عروج کی صورت میں، گنے کی پودوں کی کل صحت کو بہتر بنانے والی تین اقسام کی کھاد کے ساتھ کاشت کریں، جو نائٹروجن، فاسفورس اور پوٹاشیم جیسے ضروری عناصر فراہم کرتی ہیں، تاکہ گنے کے پودے کی کمی کو پورا کیا جا سکے۔
-      </ListItem>
-    </List>
-    <strong>کیڑے ماردار (Pesticides):</strong>
-    <List>
-      <ListItem>
-        شدید گنا بیکٹیریل بلائٹ کے عروج کی صورت میں، زرعی ماہرین یا ایکسٹینشن سروسز سے مناسب کیڑے ماردار کے تجاویز کے لئے مشورہ کریں۔ انہوں نے بیماری کے انتظام کے لئے سسٹمک اور حفاظتی کیڑے ماردار کی ترکیب کا استعمال مشورہ کیا ہوسکتا ہے۔
+        சர்க்கரைப்பயிரின் பாக்டீரியா பிளைட் அறிகுறிகள் கண்டுபிடித்தவுடன், உடனே ஸ்ட்ரெப்டோமைசின் அல்லது காசோகாமைசின் போன்ற உரமாகக் குறிப்பிடப்படும் பூச்சிக்கொல்லிகளை பயன்படுத்தவும். முன்னதாக நடவடிக்கைகளை எடுப்பது நோய் பரவலையே தடுக்கக்கூடும்.
       </ListItem>
     </List>
 
-    <Subheading>بیماری کے خلاف مزاحمت اور پودوں کی کاشتی تدبیر (Disease Resistance and Planting Practices):</Subheading>
-    <strong>کھاد (Fertilizers):</strong>
+    <Subheading>கடுமையான சர்க்கரைத்தேரி பாக்டீரியா பிளைட் பரவல் (Severe Sugarcane Bacterial Blight Outbreak):</Subheading>
+    <strong>உரங்கள் (Fertilizers):</strong>
     <List>
       <ListItem>
-        مٹی میں عضوی مواد اور کمپوسٹ شامل کریں تاکہ اس کی صحت اور زرخیزی میں بہتری ہوسکے، جس سے پودوں کی بیماری کے خلاف مزاحمت غیر مستقیم طور پر بڑھائی جاسکتی ہے۔
+        கடுமையான சர்க்கரைத்தேரி பாக்டீரியா பிளைட் பரவல் சூழலில், சர்க்கரைப்பயிரின் மொத்த ஆரோக்கியத்தை மேம்படுத்த நைட்ரஜன், பாஸ்பரஸ், மற்றும் பொட்டாசியம் போன்ற தேவையான கூறுகளை வழங்கும் உரங்களை பயன்படுத்தவும்.
       </ListItem>
     </List>
-    <strong>کیڑے ماردار (Pesticides):</strong>
+    <strong>பூச்சிக்கொல்லிகள் (Pesticides):</strong>
     <List>
       <ListItem>
-        بیکٹیریا کی پاپولیشن میں مزاحمت کے خطرے کو کم کرنے کے لئے مختلف طریقوں سے کیڑے ماردار کو روٹیٹ کریں۔ بیماری کے دوری چکر کو توڑنے اور گنا بیکٹیریل بلائٹ کی تکرار کو کم کرنے کے لئے کاشتی تدبیر کے طریقوں کو لاگو کریں۔
-      </ListItem>
-    </List>
-
-    <Subheading>موسم اور ماحولیاتی عوامل (Weather and Environmental Factors):</Subheading>
-    <strong>کھاد (Fertilizers):</strong>
-    <List>
-      <ListItem>
-        موسمی حالات کے مطابق کھاد کے انداز کا ترتیب کریں۔ بہت زیادہ بارش کے دوران، نائٹروجن کے انداز کو کم کرنے کے لئے غور کریں تاکہ پانی کا اخراج اور ممکنہ ماحولیاتی مسائل کے اثرات سے بچایا جا سکے۔
-      </ListItem>
-    </List>
-    <strong>کیڑے ماردار (Pesticides):</strong>
-    <List>
-      <ListItem>
-        گنے بیکٹیریل بلائٹ کے ترقی کے لئے مواتر موسمی پیشگوئیوں اور بیماری کے خطرے کی انتباہی رپورٹس کا نگرانی کریں تاکہ فنگی سائیڈس کی جلدی کارروائی ہوسکے۔
+        கடுமையான சர்க்கரைத்தேரி பாக்டீரியா பிளைட் பரவல் சூழலில், விவசாய ஆலோசகர்களை அணுகி பரிந்துரைக்கப்படும்வேலை பெற்ற பூச்சிக்கொல்லிகளைப் பயன்படுத்தவும்.
       </ListItem>
     </List>
 
-    <Subheading>مقامی قوانین اور حفاظتی تدابیر (Local Regulations and Safety):</Subheading>
-
-    <p>
-      ہمیشہ مقامی قوانین اور حفاظتی تدابیر کی پیروی کریں جو کھاد اور کیڑے ماردار کے استعمال کے لئے مقرر کرتے ہیں۔
-    </p>
-    <p>
-      کھاد اور کیڑے ماردار کا استعمال کرتے وقت، شخصی حفاظتی سامان (PPE) اور صحیح کارروائی کے طریقوں کا استعمال کریں۔
-    </p>
-  </Container>
+    <Subheading>நோயின் எதிர்ப்பு மற்றும் செடி பயிர்ச்சி நடைமுறைகள் (Disease Resistance and Planting Practices):</Subheading>
+    <strong>உரங்கள் (Fertilizers):</strong>
+    <List>
+      <ListItem>
+        மின் மற்றும் மேலாண்மையின் நோக்கத்தில் செடி பயிர்ச்சியில் உள்ள கருத்துகளை விரிவாக்கத்தை உறுதிப்படுத்தவும். தவிர்ந்தும் கோப்பர் பூச்சிக்கொல்லிகளை சரியான நேரத்தில் பயன்படுத்தவும்.
+      </ListItem>
+    </List>
+</Container>
 </Urdu>
 
     </>

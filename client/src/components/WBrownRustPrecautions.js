@@ -79,7 +79,7 @@ export default function WBrownRustPrecautions() {
               cursor: "pointer",
             }}
           >
-            <span>{isUrdu ? "اردو" : "English"}</span>
+            <span>{isUrdu ? "தமிழ்" : "English"}</span>
           </label>
           <Switch
             id="language-switch"
@@ -97,20 +97,20 @@ export default function WBrownRustPrecautions() {
 
       <English style={{ display: isUrdu ? "none" : "block" }}>
 <Container>
-<Heading>Wheat Brown Rust (گندم کی بھوری بیماری)</Heading>
+<Heading>Wheat Brown Rust (கோதுமை பழுப்பு காளான் நோய்)</Heading>
 
 
   Wheat brown rust, also known as wheat leaf rust or Puccinia triticina, is a common fungal disease that affects wheat crops. The disease can cause significant damage to wheat plants, leading to reduced yields and economic losses for farmers. Understanding the symptoms, causes, and management strategies for wheat brown rust is essential for effective disease control.
 
 
-<Subheading>Symptoms (علامات):</Subheading>
+<Subheading>Symptoms (அறிகுறிகள் ):</Subheading>
 Wheat brown rust can be identified by the following symptoms:
 
 Small, round to oval-shaped, brown or reddish-brown pustules on the leaves, stems, and even the spikes of the wheat plant.
 These pustules are filled with rust-colored spores, giving the disease its characteristic appearance.
 As the disease progresses, the pustules may merge, causing extensive rusting on the plant surface.
 Severe infections can lead to premature yellowing and drying of infected leaves, reducing the plant's photosynthetic capacity.
-<Subheading>Causes (وجہ):</Subheading>
+<Subheading>Causes (காரணம்  ):</Subheading>
 Wheat brown rust is caused by the fungus Puccinia triticina. The fungus primarily spreads through airborne spores, which can be carried over long distances by wind currents. Warm and humid weather conditions create a favorable environment for the disease to develop and spread rapidly. Additionally, the disease can survive on crop residues and volunteer wheat plants, contributing to its recurrence in subsequent growing seasons.
 
 <Subheading>Prevention and Management:</Subheading>
@@ -172,68 +172,69 @@ By implementing preventive measures, proper fertilization, and targeted pesticid
 </English>
 
 <Urdu style={{ display: isUrdu ? "block" : "none" }}>
-  <Container>
-    <Heading>گندم کی بھوری بیماری (Wheat Brown Rust)</Heading>
+<Container>
+  <Heading>கோதுமை பழுப்பு உறை நோய் (Wheat Brown Rust)</Heading>
 
-    <Description>
-      گندم کی بھوری بیماری، جو کہ گندم کی پیداوار پر اثرانداز ہونے والی ایک عام فنگل بیماری ہے جسے گندم کی پودوں کو نقصان پہنچا سکتی ہے، کسانوں کے لئے معاشی ضرر پیدا کر سکتی ہے۔ گندم کی بھوری بیماری کے علامات، اس کی وجوہات اور اس کا انتظام کے لئے ضروری اقدامات کو سمجھنا پودوں کے موثر متاثرہ علاج کے لئے ضروری ہے۔
-    </Description>
+  <Description>
+    கோதுமை பழுப்பு உறை நோய் என்பது ஒரு பொதுவான பூஞ்சை நோயாகும், இது கோதுமை விளைவுகளை பாதிக்கக்கூடியதாய் இருந்து, விவசாயிகளுக்கு பொருளாதார இழப்பை ஏற்படுத்தக்கூடும். இந்த நோயின் அறிகுறிகள், காரணங்கள் மற்றும் நிர்வாக முறைகள் குறித்து புரிந்து கொள்வது, பயிர்களை திறம்பட கையாள உதவும்.
+  </Description>
 
-    <Subheading>علامات (Symptoms):</Subheading>
-    <Description>
-      گندم کی بھوری بیماری کے علامات درج ذیل ہیں:
-      <List>
-        <ListItem>پتوں، سٹیم اور گھٹیوں پر چھوٹے، گول اور بھورے یا سرخ بھورے دھببے۔</ListItem>
-        <ListItem>یہ دھببے بھورے رنگ کے اسپورز سے بھرے ہوتے ہیں، جس سے بیماری کو اس کا خصوصی نظر آتا ہے۔</ListItem>
-        <ListItem>بیماری کے پیش رفت میں، دھببے اکٹھے ہوسکتے ہیں، جس سے پودے کی سطح پر بھورا رنگ کا کچھ حصہ نظر آتا ہے۔</ListItem>
-        <ListItem>شدید انفیکشن کی صورت میں، متاثرہ پتوں کی پیلی ہوجانے اور سوکھ جانے کی وجہ سے، پودے کی تصویر کچھ بگڑ سکتی ہے۔</ListItem>
-      </List>
-    </Description>
+  <Subheading>அறிகுறிகள் (Symptoms):</Subheading>
+  <Description>
+    கோதுமை பழுப்பு உறை நோயின் அறிகுறிகள் பின்வருமாறு:
+    <List>
+      <ListItem>இலைகள், தண்டு மற்றும் தொப்பிகளில் சிறிய, சுற்றுவட்டமான பழுப்பு அல்லது சிவப்பு பழுப்பு மாசுகள்.</ListItem>
+      <ListItem>இந்த மாசுகள் பழுப்பு நிறம் கொண்ட உயிரணுக்களால் நிரப்பப்பட்டிருக்கும், இது நோயின் தனித்துவமான தோற்றத்தை தரும்.</ListItem>
+      <ListItem>நோய் மேம்பட்ட நிலையில், இந்த மாசுகள் ஒன்றாக இணைந்து, தாவர மேற்பரப்பில் பழுப்பு நிறமான பகுதியாக தெரியும்.</ListItem>
+      <ListItem>தீவிர தொற்றின் போது, பாதிக்கப்பட்ட இலைகள் மஞ்சள் நிறமாக மாறி உலரக்கூடும், இது தாவரத்தின் தோற்றத்தை பாதிக்கலாம்.</ListItem>
+    </List>
+  </Description>
 
-    <Subheading>وجوہات (Causes):</Subheading>
-    <Description>
-      گندم کی بھوری بیماری کی وجہ فطری فنگس Puccinia triticina ہے۔ یہ فنگس ہوا سے منتقل ہوتا ہے، جس کے ذریعہ ہوا کی روانیوں کے ذریعہ دور دور تک منتقل ہو جاتا ہے۔ گرم اور نمی دار موسمیاتی شرائط بیماری کے فوراً پھیلنے اور تیزی سے پھیلنے کے لئے ایک موزوں ماحول فراہم کرتے ہیں۔ علاوہ ازیں، بیماری کا اثر کھیتوں میں رہ جانے والی کاشتکاری اور آزاد گندم کے پودوں پر بھی ہو سکتا ہے، جس سے یہ مستقبلی کاشت کے موسموں میں دوبارہ حملہ کر سکتی ہے۔
-    </Description>
+  <Subheading>காரணங்கள் (Causes):</Subheading>
+  <Description>
+    கோதுமை பழுப்பு உறை நோய் "Puccinia triticina" என்ற பூஞ்சை காரணமாக ஏற்படுகிறது. இது காற்றின் மூலம் பரவக்கூடியது, அதனால் இது தூர இடங்களுக்கும் பரவக்கூடும். சூடான மற்றும் ஈரமான வானிலை இந்த நோயின் விரைவான பரவலுக்கு உகந்த சூழலை ஏற்படுத்துகிறது. மேலும், வயலில் மீதமுள்ள பழைய பயிர்கள் மற்றும் தானியங்கி கோதுமை தாவரங்களும் இந்த நோயின் தொடர்ந்த தாக்கத்திற்கு வழிவகுக்கும்.
+  </Description>
 
-    <Subheading>انتظام و انداز بندی (Prevention and Management):</Subheading>
-    <Description>
-      گندم کی بھوری بیماری کی مکمل خاتمہ کرنا ممکن نہیں ہو سکتا، لیکن چند محافظتی تدابیر اور انتظامی اقدامات سے اس کے اثرات کو کم سے کم کرنا اور گندم کی پیداوار کی حفاظت کرنا ممکن ہے۔
-      <List>
-        <ListItem><strong>1. محصول کی تبدیلی:</strong> بیماری کے دورہ کو بگاڑنے اور زمین میں بھوری اسپورز کی تعمیر کو کم کرنے کے لئے محصول کی تبدیلی کا عمل انجام دیں۔</ListItem>
-        <ListItem><strong>2. مضبوط مخصوصات والے پودے:</strong> گندم کے وہ مخصوص اقسام کا انتخاب کریں جنہیں بھوری کے خلاف مضبوطی سے پیدا کیا گیا ہے۔ مضبوط مخصوصات والے پودے بیماری کی شدت کو کم کر سکتے ہیں۔</ListItem>
-        <ListItem><strong>3. وقت پر کاشت:</strong> گندم کو موسم کی ابتدا میں پانی دینے سے قبل کاشت کرنے سے بیماری کے حد زیادہ سے زیادہ پھیلنے کے وقت کم ہوتی ہے۔</ListItem>
-        <ListItem><strong>4. فنگی زرخیز:</strong> بھوری بیماری کے شدید حملے کے انتظام کے لئے فنگی زرخیز کے استعمال کا تعاون کرتے ہوئے سوچا جا سکتا ہے۔ تاہم، ان کے استعمال کو بیماری کی موجودگی اور شدت کا مشاہدہ کرنے کے بنیادی معیار اور حفاظتی تدابیر کو مد نظر رکھ کر کرنا چاہئے۔</ListItem>
-        <ListItem><strong>5. متاثرہ باقیات کا اخراج:</strong> میدان کی صفائی اچھی طریقے سے کریں اور متاثرہ کاشتکاری اور آزاد گندم کے پودے کو ختم کر دیں تاکہ بیماری کا انتقال کم ہو۔</ListItem>
-        <ListItem><strong>6. نگرانی:</strong> گندم کے میدانوں کا باقاعدہ نگرانی کرتے رہیں تاکہ بھوری کے انفیکشن کے ابتدائی علامات کا تعین کر کے وقت پر کنٹرولی اقدامات کا انجام دیا جاسکے۔</ListItem>
-      </List>
-    </Description>
+  <Subheading>தடுப்பு மற்றும் மேலாண்மை (Prevention and Management):</Subheading>
+  <Description>
+    இந்த நோயை முழுமையாக ஒழிக்க முடியாது, ஆனால் சில பாதுகாப்பு மற்றும் மேலாண்மை நடவடிக்கைகள் மூலம் அதன் தாக்கத்தை குறைத்து விளைவுகளை பாதுகாக்கலாம்:
+    <List>
+      <ListItem><strong>1. பயிர் மாற்றம்:</strong> நோயின் சுழற்சியை முடக்க மற்றும் மண்ணில் உயிரணுக்களின் சேர்வை குறைக்க பயிர் மாற்றத்தை செயல்படுத்தவும்.</ListItem>
+      <ListItem><strong>2. நோய் எதிர்ப்பு வகைகள்:</strong> பழுப்பு நோயை எதிர்க்கக்கூடிய கோதுமை வகைகளை தேர்வு செய்யவும்.</ListItem>
+      <ListItem><strong>3. சரியான நேரத்தில் விதைப்பு:</strong> சீசன் ஆரம்பத்திலேயே விதைப்பு செய்வதால் நோய் பரவலுக்கான நேரத்தை குறைக்க முடியும்.</ListItem>
+      <ListItem><strong>4. பூஞ்சைநாசினி (Fungicide):</strong> நோய் தீவிரமானால், பூஞ்சைநாசினிகளை பரிசீலிக்கலாம், ஆனால் அவற்றின் பயன்பாடு முன்னேற்ற நிலை மற்றும் பாதுகாப்பு வழிகாட்டல்களை பின்பற்றவேண்டும்.</ListItem>
+      <ListItem><strong>5. பாதிக்கப்பட்ட பாகங்களை அகற்று:</strong> வயலை சுத்தமாக வைத்திருங்கள் மற்றும் பழைய நோய்காரியங்களை அகற்றுங்கள்.</ListItem>
+      <ListItem><strong>6. கண்காணிப்பு:</strong> கோதுமை வயல்களை முறையாக கண்காணிக்கவும், ஆரம்ப கட்ட அறிகுறிகளை அடையாளம் கண்டு உடனடி நடவடிக்கைகளை எடுக்கவும்.</ListItem>
+    </List>
+  </Description>
 
-    <Subheading>کھاد (Fertilizers):</Subheading>
-    <Description>
-      صحیح کھاد کا انتخاب گندم کے پودوں کی صحت کی حمایت کرنے اور بھوری جیسی بیماریوں کے خلاف ان کی مضبوطی بڑھانے میں اہم کردار ادا کرتا ہے۔ درج ذیل کھاد گندم کے لئے مفید ہوسکتے ہیں:
-      <List>
-        <ListItem><strong>1. یوریا:</strong> پودوں کے مجموعی ارتقاء اور ترقی کے لئے ضروری نائٹروجن مہیا کرتا ہے۔</ListItem>
-        <ListItem><strong>2. ایمونیم نائٹریٹ:</strong> نائٹروجن مہیا کرتا ہے، جو صحیح پتے اور پودوں کی توانائی کو بڑھاتا ہے۔</ListItem>
-        <ListItem><strong>3. کیلشیم نائٹریٹ:</strong> کیلشیم کی دستیابی کو بہتر بناتا ہے، جو سیل وال کی دباؤ اور بیماری مزاحمت کے لئے اہم ہے۔</ListItem>
-      </List>
-    </Description>
+  <Subheading>உரங்கள் (Fertilizers):</Subheading>
+  <Description>
+    உரங்களின் சரியான தேர்வு கோதுமை தாவரங்களின் ஆரோக்கியத்திற்கும் நோய் எதிர்ப்பு திறனிற்கும் உதவுகிறது:
+    <List>
+      <ListItem><strong>1. யூரியா:</strong> தாவர வளர்ச்சிக்கு தேவையான நைட்ரஜனை வழங்குகிறது.</ListItem>
+      <ListItem><strong>2. அமோனியம் நைட்ரேட்:</strong> பச்சை இலை வளர்ச்சிக்கும் தாவர சக்திக்கும் உதவும்.</ListItem>
+      <ListItem><strong>3. கல்சியம் நைட்ரேட்:</strong> செல்வால் உறுதிப்படுத்தும் கல்சியம் உற்பத்திக்கு உதவுகிறது.</ListItem>
+    </List>
+  </Description>
 
-    <Subheading>کیڑے ماردار (Pesticides):</Subheading>
-    <Description>
-      جب بھوری بیماری کے انفیکشن شدید ہوتے ہیں اور گندم کی پیداوار پر اس کا بہترین اثر ہوتا ہے، تو مخصوص کیڑے ماردار کے اطلاق کو غور کرنا ممکن ہوتا ہے۔ درج ذیل کیڑے ماردار گندم کی بھوری بیماری کے انتظام میں مدد فراہم کر سکتے ہیں:
-      <List>
-        <ListItem><strong>1. پروپیکونازول:</strong> گندم کی بھوری بیماری جیسی رسٹ بیماریوں کے خلاف موثر فنگائیڈ ہے۔</ListItem>
-        <ListItem><strong>2. ٹیبوکونازول:</strong> رسٹ انفیکشن کے خلاف محافظتی اور علاجی کاروائی فراہم کرتا ہے۔</ListItem>
-        <ListItem><strong>3. ٹرائفلوکسیسٹروبن + پروتھائوکونازول:</strong> یہ مختصر عرصے میں رسٹ جیسی بیماریوں کو شامل کرکے وسیع رینج کے بیماریوں کے انتظام میں مدد فراہم کرنے والا مختلف فنگائیڈ ہے۔</ListItem>
-      </List>
-    </Description>
+  <Subheading>பூச்சி நாசினிகள் (Pesticides):</Subheading>
+  <Description>
+    பழுப்பு உறை நோயின் தீவிரம் அதிகமானால், கீழ்காணும் பூச்சி நாசினிகள் பயன்படலாம்:
+    <List>
+      <ListItem><strong>1. Propiconazole:</strong> கோதுமை பழுப்பு உறை போன்ற நோய்களுக்கு பயனுள்ள பூஞ்சைநாசினி.</ListItem>
+      <ListItem><strong>2. Tebuconazole:</strong> பாதுகாப்பு மற்றும் சிகிச்சை நடவடிக்கைகளுக்குப் பயனுடையது.</ListItem>
+      <ListItem><strong>3. Trifloxystrobin + Prothioconazole:</strong> பரந்த நோய்களை கையாளும் திறன் கொண்ட சேர்க்கை பூஞ்சைநாசினி.</ListItem>
+    </List>
+  </Description>
 
-    <Subheading>نوٹ (Note):</Subheading>
-    <Description>
-      کھاد اور کیڑے ماردار کے استعمال کے دوران موصوف ڈوز، اطلاق کی تنظیمات اور حفاظتی تدابیر کا مد نظر رکھنا بہت اہم ہے تاکہ ماحول، مفید موجودہ اور انسانی صحت پر منفی اثرات سے بچا جا سکے۔ علاقائی کاشتکاروں یا مقامی توسیعی خدمات کے ماہرین سے خاص مشورہ حاصل کریں جو آپ کے علاقے اور کاشت کی حالتوں پر مبنی مخصوص رہنمائی کریں۔
-      محافظتی تدابیر، صحیح کھاد کا استعمال اور ضرورت کے مطابق کیڑے ماردار کے استعمال کے ذرائع سے، کسان گندم کی بھوری بیماری کو کارآمدی سے انتظام کر سکتے ہیں اور اپنی گندم کی پیداوار کو بڑے حصے میں خرابیوں سے بچا سکتے ہیں۔ میدانوں کا بار بار دورہ لگانا اور نگرانی کرنا، جلدی سے رسٹ کی انفیکشن کے علامات کا تشخیص کرنے اور ان پر قابو پانے کے لئے اہمیت رکھتے ہیں، جس سے مزید پھیلاؤ روکا جا سکتا ہے اور نقصان کم کیا جا سکتا ہے۔
-    </Description>
-  </Container>
+  <Subheading>குறிப்பு (Note):</Subheading>
+  <Description>
+    உரங்கள் மற்றும் பூச்சி நாசினிகளைப் பயன்படுத்தும் போது, பரிந்துரைக்கப்பட்ட அளவு, பயன்பாட்டு முறைகள் மற்றும் பாதுகாப்பு வழிகாட்டல்களை பின்பற்றுவது அவசியம். இது சுற்றுச்சூழல், பயனுள்ள உயிரினங்கள் மற்றும் மனித சுகாதாரத்தை பாதுகாக்க உதவும். உள்ளூர் வேளாண் வல்லுநர்களிடம் ஆலோசனை பெற்று உங்கள் பகுதிக்கேற்ப சிறப்பான வழிகாட்டல்களை பின்பற்றுங்கள்.
+    பாதுகாப்பு நடவடிக்கைகள், சரியான உரங்கள் மற்றும் தேவையானபோது பூச்சி நாசினிகளைப் பயன்படுத்துவதன் மூலம், விவசாயிகள் பழுப்பு உறை நோயை திறம்படக் கையாளலாம் மற்றும் விளைவுகளை பாதுகாக்கலாம். வயல்களை அடிக்கடி பார்வையிட்டு கண்காணிப்பது முக்கியம், இது ஆரம்பத்திலேயே நோயைக் கண்டறிந்து பரவுவதைத் தடுக்கும்.
+  </Description>
+</Container>
+
 </Urdu>
 
     </>

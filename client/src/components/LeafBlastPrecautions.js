@@ -79,7 +79,7 @@ export default function LeafBlastPrecautions() {
               cursor: "pointer",
             }}
           >
-            <span>{isUrdu ? "اردو" : "English"}</span>
+            <span>{isUrdu ? "தமிழ்" : "English"}</span>
           </label>
           <Switch
             id="language-switch"
@@ -97,7 +97,7 @@ export default function LeafBlastPrecautions() {
 
       <English style={{ display: isUrdu ? "none" : "block" }}>
   <Container>
-    <Heading>Rice Leaf Blast Disease (چاول کی پتے کی بلاسٹ بیماری)</Heading>
+    <Heading>Rice Leaf Blast Disease (அரிசி இலை பிளாஸ்ட் நோய்)</Heading>
     <Description>
       <strong>Description:</strong> Rice Leaf Blast, caused by the fungus
       Magnaporthe oryzae, is a destructive fungal disease that affects rice
@@ -106,7 +106,7 @@ export default function LeafBlastPrecautions() {
       lesions on leaves, reducing photosynthesis and affecting grain
       development.
     </Description>
-    <Subheading>Symptoms (علامات):</Subheading>
+    <Subheading>Symptoms (அறிகுறிகள்):</Subheading>
     The symptoms of Rice Leaf Blast disease include:
     <List>
       <ListItem>Formation of diamond-shaped or spindle-shaped lesions.</ListItem>
@@ -121,48 +121,48 @@ export default function LeafBlastPrecautions() {
         Severely infected panicles may have blank or partially filled grains.
       </ListItem>
     </List>
-    <Subheading>Causes (وجہ):</Subheading>
+    <Subheading>Causes (காரணம்):</Subheading>
     Rice Leaf Blast is caused by the fungus Magnaporthe oryzae. The fungus
     spreads through water, air, and infected plant materials.
-    <Subheading>Impact on Crops (فصلوں پر اثرات):</Subheading>
+    <Subheading>Impact on Crops (விவசாய விளைவுகள்):</Subheading>
     Rice Leaf Blast can lead to a significant reduction in yield and grain
     quality. The disease can cause extensive damage to rice crops, affecting
     food security and farmers' income.
-    <Subheading>Prevention and Management (روک تھام اور انتظام):</Subheading>
+    <Subheading>Prevention and Management (தடுப்பு மற்றும் மேலாண்மை):</Subheading>
     While complete eradication of Rice Leaf Blast may not be feasible, several
     measures can help manage the disease and reduce its impact:
     <List>
       <ListItem>
-        <strong>1. Resistant Varieties (مزاحمت کی اقسام):</strong> Planting rice
+        <strong>1. Resistant Varieties (எதிர்ப்பு வகைகள்):</strong> Planting rice
         varieties with resistance to Rice Leaf Blast can significantly reduce
         disease severity.
       </ListItem>
       <ListItem>
-        <strong>2. Crop Rotation (فصل کی روٹیشن):</strong> Avoid consecutive rice
+        <strong>2. Crop Rotation (பயிர் சுழற்சி):</strong> Avoid consecutive rice
         plantings in the same field to break the disease cycle.
       </ListItem>
       <ListItem>
-        <strong>3. Seed Treatment (بیج کی تدارک):</strong> Use certified
+        <strong>3. Seed Treatment (விதை சிகிச்சை):</strong> Use certified
         disease-free seeds or treat seeds with appropriate fungicides before
         planting.
       </ListItem>
       <ListItem>
-        <strong>4. Fungicides (فنگی سائیڈز):</strong> Apply fungicides containing
+        <strong>4. Fungicides (பூஞ்சை கொல்லிகள்):</strong> Apply fungicides containing
         Pyraclostrobin, Trifloxystrobin, or Propiconazole to control the
         disease. Follow recommended application rates and safety guidelines.
       </ListItem>
       <ListItem>
-        <strong>5. Proper Irrigation (مناسب آبپاشی):</strong> Avoid excessive
+        <strong>5. Proper Irrigation ( தக்க நீர்ப்பாசனம்):</strong> Avoid excessive
         irrigation, as waterlogged conditions can favor disease development.
       </ListItem>
     </List>
-    <Subheading>Fertilizer and Pesticide Use (کھاد اور کیڑے ماردار کا استعمال):</Subheading>
+    <Subheading>Fertilizer and Pesticide Use (உரத்திற்கு உரிக்கும் மற்றும் பசுமை மருந்துகள் பயன்படுத்துதல்):</Subheading>
     The use of fertilizers and pesticides can help in managing and reducing
     the impact of Rice Leaf Blast. Proper application of fertilizers and
     targeted use of pesticides can improve the overall health of the rice
     plants and control the disease.
     <Description>
-      <strong>Fertilizers (کھاد):</strong>
+      <strong>Fertilizers (உரம்):</strong>
       <List>
         <ListItem>
           Zinc Sulfate: Provides zinc, essential for plant growth and enzyme
@@ -179,7 +179,7 @@ export default function LeafBlastPrecautions() {
       </List>
     </Description>
     <Description>
-      <strong>Pesticides (کیڑے ماردار):</strong>
+      <strong>Pesticides (பசுமை மருந்துகள்):</strong>
       <List>
         <ListItem>
           Pyraclostrobin: An effective fungicide specifically used for
@@ -196,15 +196,15 @@ export default function LeafBlastPrecautions() {
       </List>
     </Description>
     <Description>
-      <Subheading>Early Detection of Rice Leaf Blast (چاول کی پتے کی بلاسٹ کی جلد شناخت):</Subheading>
-      <strong>Fertilizers (کھاد):</strong>
+      <Subheading>Early Detection of Rice Leaf Blast (அன்னாசி இலை வீசல் நோயின் காலையிலான கண்டுபிடிப்பு):</Subheading>
+      <strong>Fertilizers (உரம்):</strong>
       <List>
         <ListItem>
           Increase the application of zinc and iron-based fertilizers to support
           rice plants' recovery and resistance to disease.
         </ListItem>
       </List>
-      <strong>Pesticides (کیڑے ماردار):</strong>
+      <strong>Pesticides (பசுமை மருந்துகள்):</strong>
       <List>
         <ListItem>
           Apply a targeted fungicide like Pyraclostrobin or Trifloxystrobin
@@ -214,8 +214,8 @@ export default function LeafBlastPrecautions() {
         </ListItem>
       </List>
     </Description>
-    <Subheading>Severe Rice Leaf Blast Outbreak (چاول کی پتے کی بلاسٹ کے شدید پھیلاؤ):</Subheading>
-    <strong>Fertilizers (کھاد):</strong>
+    <Subheading>Severe Rice Leaf Blast Outbreak (அன்னாசி இலை வீசல் நோயின் கடுமையான பரவல்):</Subheading>
+    <strong>Fertilizers (உரம்):</strong>
     <List>
       <ListItem>
         Use a balanced fertilizer that includes essential nutrients like zinc,
@@ -223,7 +223,7 @@ export default function LeafBlastPrecautions() {
         severe infections.
       </ListItem>
     </List>
-    <strong>Pesticides (کیڑے ماردار):</strong>
+    <strong>Pesticides (பசுமை மருந்துகள்):</strong>
     <List>
       <ListItem>
         In cases of severe Rice Leaf Blast outbreaks, consult with agricultural
@@ -232,8 +232,8 @@ export default function LeafBlastPrecautions() {
         effectively.
       </ListItem>
     </List>
-    <Subheading>Disease Resistance and Crop Rotation (بیماری مزاحمت اور فصل کی روٹیشن):</Subheading>
-    <strong>Fertilizers (کھاد):</strong>
+    <Subheading>Disease Resistance and Crop Rotation (நோய் எதிர்ப்பு மற்றும் பயிர் சுழற்சி):</Subheading>
+    <strong>Fertilizers (உரம்):</strong>
     <List>
       <ListItem>
         Incorporate organic matter and compost into the soil to improve its
@@ -241,7 +241,7 @@ export default function LeafBlastPrecautions() {
         resistance.
       </ListItem>
     </List>
-    <strong>Pesticides (کیڑے ماردار):</strong>
+    <strong>Pesticides (பசுமை மருந்துகள்):</strong>
     <List>
       <ListItem>
         Rotate pesticides with different modes of action to reduce the risk of
@@ -250,8 +250,8 @@ export default function LeafBlastPrecautions() {
         Leaf Blast.
       </ListItem>
     </List>
-    <Subheading>Weather and Environmental Factors (موسم اور ماحولیاتی عوامل):</Subheading>
-    <strong>Fertilizers (کھاد):</strong>
+    <Subheading>Weather and Environmental Factors (பருவநிலை மற்றும் சுற்றுச்சூழல் காரணிகள்):</Subheading>
+    <strong>Fertilizers (உரம்):</strong>
     <List>
       <ListItem>
         Adjust the timing and rates of fertilizer applications based on weather
@@ -260,7 +260,7 @@ export default function LeafBlastPrecautions() {
         environmental issues.
       </ListItem>
     </List>
-    <strong>Pesticides (کیڑے ماردار):</strong>
+    <strong>Pesticides (பசுமை மருந்துகள்):</strong>
     <List>
       <ListItem>
         Monitor weather forecasts and disease risk alerts to apply fungicides
@@ -268,7 +268,7 @@ export default function LeafBlastPrecautions() {
         development.
       </ListItem>
     </List>
-    <Subheading>Local Regulations and Safety (مقامی ضوابط اور حفاظتی تدابیر):</Subheading>
+    <Subheading>Local Regulations and Safety (உள்ளூர் ஒழுங்குகளும் பாதுகாப்பு நடவடிக்கைகளும்):</Subheading>
     <p>
       Always follow local regulations and safety guidelines regarding the use
       of fertilizers and pesticides.
@@ -287,198 +287,104 @@ export default function LeafBlastPrecautions() {
 </English>
 
 <Urdu style={{ display: isUrdu ? "block" : "none" }}>
-  <Container>
-    <Heading>(چاول کی پتے کی بلاسٹ بیماری) Rice Leaf Blast Disease</Heading>
+<Container>
+    <Heading>(அரிசி இலை வெடிப்பு நோய்)</Heading>
     <Description>
-      <strong>تفصیل:</strong> (چاول کی پتے کی بلاسٹ بیماری) چاول کے پودے کو متاثرہ
-      کرنے والی فنگسی بیماری ہے جو (مگناپورٹھی اوریزائی) فنگس سے وابستہ ہوتی ہے۔
-      یہ بیماری عموماً پتوں کو مبتلا کرتی ہے، لیکن پودے کے دوسرے حصوں پر بھی
-      اثر انداز ہو سکتی ہے۔ متاثرہ پودے پر چھاپ دار یا رومانچکار نمونے پر داغ
-      بن جاتے ہیں، جس سے فوٹوسنتھیسس میں کمی ہوتی ہے اور دانے کی تشکیل متاثرہ
-      ہوتی ہے۔
+      <strong>விவரம்:</strong> (அரிசி இலை வெடிப்பு நோய்) என்பது அரிசி செடியை பாதிக்கும் ஒரு பூஞ்சை நோயாகும், இது (மெக்னாபோர்தே ஒரிசே) எனும் பூஞ்சையால் ஏற்படுகிறது.
     </Description>
-    <Subheading>(علامات) Symptoms:</Subheading>
-    (چاول کی پتے کی بلاسٹ بیماری) کے علامات شامل ہیں:
+    <Subheading>(அறிகுறிகள்)</Subheading>
+    (அரிசி இலை வெடிப்பு நோய்) அறிகுறிகள்:
     <List>
-      <ListItem>پتوں پر چھوٹے مائل اور چھڑی دار داغوں کا بننا۔</ListItem>
-      <ListItem>
-        داغوں کے درمیان سفید یا سرمئی رنگ کے حلقے ہونا۔
-      </ListItem>
-      <ListItem>
-        متاثرہ پتے پھٹ جاتے ہیں، اور بیماری پتے کے گلے اور پولوں تک پہنچ سکتی
-        ہے۔
-      </ListItem>
-      <ListItem>
-        شدید متاثرہ سینکلز کے دانے خالی یا جزوی طور پر بھرے ہوتے ہیں۔
-      </ListItem>
+      <ListItem>இலையில் நீளமான மற்றும் தண்டின் வடிவிலான படுகாயங்கள்.</ListItem>
+      <ListItem>படுகாயங்களில் வெள்ளை அல்லது சாம்பல் நிற வளையங்கள்.</ListItem>
+      <ListItem>பாதிக்கப்பட்ட இலைகள் கிழியும், நோய் தண்டு மற்றும் கொம்புகள் வரை பரவக்கூடும்.</ListItem>
+      <ListItem>பாதிக்கப்பட்ட குழிகள் முழுமையாக அல்லது பகுதியளவில் வெறுமையாக இருக்கும்.</ListItem>
     </List>
-    <Subheading>(وجہ) Causes:</Subheading>
-    (چاول کی پتے کی بلاسٹ بیماری) کی وجہ (مگناپورٹھی اوریزائی) فنگس ہے۔ یہ فنگس
-    پانی، ہوا اور متاثرہ پودوں کے مواد کے ذرائع سے پھیلتا ہے۔
-    <Subheading>(فصلوں پر اثرات) Impact on Crops:</Subheading>
-    (چاول کی پتے کی بلاسٹ بیماری) کے پھیلاؤ سے کاشتکاری پر بڑی تعداد میں کمی
-    آ سکتی ہے اور دانے کی معیار پر بھی اثر انداز ہو سکتی ہے۔ یہ بیماری چاول کی
-    کاشت کو کئی حد تک متاثرہ کر سکتی ہے جس سے کاشتکاروں کو مالیت کا نقصان ہوتا
-    ہے۔
-    <Subheading>(روک تھام اور انتظام) Prevention and Management:</Subheading>
-    (چاول کی پتے کی بلاسٹ بیماری) کو مکمل طور پر ختم کرنا ممکن نہیں ہوسکتا، لیکن
-    چند تدابیر سے اس کا نظم و نسق قابو کیا جاسکتا ہے اور اس کے اثرات کم کیے
-    جاسکتے ہیں:
+    <Subheading>(காரணம்)</Subheading>
+    (அரிசி இலை வெடிப்பு நோய்) காரணம் (மெக்னாபோர்தே ஒரிசே) பூஞ்சை. இது நீர், காற்று மற்றும் பாதிக்கப்பட்ட செடிகளின் பகுதிகள் மூலம் பரவுகிறது.
+    <Subheading>(விவசாய விளைவுகள்)</Subheading>
+    (அரிசி இலை வெடிப்பு நோய்) பரவுவதால் விளைச்சல் குறையும் மற்றும் தரம் பாதிக்கப்படும். இது விவசாயிகளை பொருளாதார இழப்புக்கு உள்ளாக்கும்.
+    <Subheading>(தடுப்பு மற்றும் மேலாண்மை)</Subheading>
+    (அரிசி இலை வெடிப்பு நோய்) முற்றிலும் அகற்ற இயலாது, ஆனால் சில நடவடிக்கைகள் மூலம் கட்டுப்படுத்த முடியும்:
     <List>
-      <ListItem>
-        <strong>1. مزاحمت کی اقسام (Resistant Varieties):</strong> (چاول کی پتے کی
-        بلاسٹ بیماری) سے متاثرہ کاشت کے لئے مزاحمت کی اقسام کے ساتھ چاول کی کاشت
-        کرنا بیماری کی شدت کو کم کرسکتا ہے۔
-      </ListItem>
-      <ListItem>
-        <strong>2. فصل کی روٹیشن (Crop Rotation):</strong> یہ بیماری کے چکر کو توڑنے کے
-        لئے چاول کی پیداوار کو واحد زمین میں نہیں لگانا چاہئے۔
-      </ListItem>
-      <ListItem>
-        <strong>3. بیج کی تدارک (Seed Treatment):</strong> بیماری سے پاک بیج کا
-        استعمال یا کاشت سے پہلے مناسب فنگی زرخیز استعمال کریں۔
-      </ListItem>
-      <ListItem>
-        <strong>4. فنگی سائیڈز (Fungicides):</strong> (چاول کی پتے کی بلاسٹ بیماری)
-        کے انتظام کے لئے پائراکلوسٹروبن، ٹرائی فلوکسٹروبن، یا پروپیکونازول شامل
-        فنگی سائیڈز کا استعمال کریں۔ تجویز شدہ اطلاق کی شرح اور حفاظتی تدابیر کا
-        پابندی سے پیروی کریں۔
-      </ListItem>
-      <ListItem>
-        <strong>5. مناسب آبپاشی (Proper Irrigation):</strong> زیادہ آبپاشی سے بچیں،
-        کیونکہ پانی بھرا ہوا حالات میں بیماری کا فیور کریت میں فائدہ ہوتا ہے۔
-      </ListItem>
+      <ListItem><strong>1. எதிர்ப்பு வகைகள்:</strong> எதிர்ப்பு வகைகள் பயிரிடல் மூலம் நோயின் தாக்கம் குறைக்கலாம்.</ListItem>
+      <ListItem><strong>2. பயிர் சுழற்சி:</strong> ஒரே நிலத்தில் தொடர்ச்சியாக அரிசி விளைச்சல் தவிர்க்கவும்.</ListItem>
+      <ListItem><strong>3. விதை பராமரிப்பு:</strong> ஆரோக்கியமான விதைகள் அல்லது பூஞ்சை நாசினிகளுடன் விதை பராமரிக்கவும்.</ListItem>
+      <ListItem><strong>4. பூஞ்சை நாசினிகள்:</strong> பைரக்ளோஸ்ட்ரோபின், ட்ரைஃப்ளோக்ஸ்ட்ரோபின் அல்லது ப்ரோபிகோனாசோல் கொண்ட பூஞ்சை நாசினிகளை பயன்படுத்தவும்.</ListItem>
+      <ListItem><strong>5. சரியான நீர்ப்பாசனம்:</strong> அதிக நீர்ப்பாசனம் தவிர்க்கவும், ஏனெனில் ஈரமான நிலை நோயை அதிகரிக்கிறது.</ListItem>
     </List>
-    <Subheading>(کھاد اور کیڑے ماردار کا استعمال) Fertilizer and Pesticide Use:</Subheading>
-    (چاول کی پتے کی بلاسٹ بیماری) کے انتظام کے لئے کھاد اور کیڑے ماردار کا استعمال
-    مدیریت کے لئے مدد فراہم کر سکتا ہے۔ کھاد کے مناسب اطلاق اور ٹارگٹ کیا گیا
-    کیڑے ماردار کا استعمال چاول کے پودوں کی کل صحت کو بہتر بناتا ہے اور بیماری کو
-    کنٹرول کرتا ہے۔
+    <Subheading>(உரமும் பூச்சி நாசினியும்)</Subheading>
+    உரங்கள் மற்றும் பூச்சி நாசினிகள் நோயை கட்டுப்படுத்த உதவும்.
     <Description>
-      <strong>کھاد (Fertilizers):</strong>
+      <strong>உரங்கள்:</strong>
       <List>
-        <ListItem>
-          زنک سلفیٹ: پودوں کی نشوونما اور انزائم کی حرکت کے لئے ضروری زنک فراہم
-          کرتا ہے۔
-        </ListItem>
-        <ListItem>
-          آئرن سلفیٹ: کلوروفائیل پیداوار اور فوٹوسنتھیسس کے لئے اہم آئرن فراہم
-          کرتا ہے۔
-        </ListItem>
-        <ListItem>
-          بورک ایسڈ: سیل وال کی تشکیل کے لئے اور کاربوہائیڈریٹ میٹابولزم کے لئے
-          ضروری بوران فراہم کرتا ہے۔
-        </ListItem>
+        <ListItem>ஜிங்க் சல்பேட்: செடியின் வளர்ச்சி மற்றும் என்சைம்களின் செயலை ஊக்குவிக்கின்றது.</ListItem>
+        <ListItem>ஐரன் சல்பேட்: குளோரோஃபில் உற்பத்திக்குத் தேவையான இரும்பு வழங்குகிறது.</ListItem>
+        <ListItem>போரிக் ஆசிட்: செல்வால் அமைப்பு மற்றும் கார்போஹைட்ரேட் மாற்றத்திற்கு தேவையான போரான்.</ListItem>
       </List>
     </Description>
     <Description>
-      <strong>کیڑے ماردار (Pesticides):</strong>
+      <strong>பூச்சி நாசினிகள்:</strong>
       <List>
-        <ListItem>
-          پائراکلوسٹروبن: (چاول کی پتے کی بلاسٹ بیماری) کو کنٹرول کرنے کے لئے
-          ایک موثر فنگسائیڈ ہے۔
-        </ListItem>
-        <ListItem>
-          ٹرائی فلوکسٹروبن: فنگل انفیکشن سے محفوظ کرنے والا فنگسائیڈ ہے۔
-        </ListItem>
-        <ListItem>
-          پروپیکونازول: مگناپورٹھی اوریزائی سمیت مختلف فنگس کے خلاف اثرانداز ہوتا
-          ہے۔
-        </ListItem>
+        <ListItem>பைரக்ளோஸ்ட்ரோபின்: இலை வெடிப்பு நோயை கட்டுப்படுத்துகிறது.</ListItem>
+        <ListItem>ட்ரைஃப்ளோக்ஸ்ட்ரோபின்: பூஞ்சை தாக்கத்திலிருந்து பாதுகாக்கும்.</ListItem>
+        <ListItem>ப்ரோபிகோனாசோல்: பல்வேறு பூஞ்சைகளுக்கு எதிராக செயல் படுகிறது.</ListItem>
       </List>
     </Description>
     <Description>
-      <Subheading>(چاول کی پتے کی بلاسٹ کی جلد شناخت) Early Detection of Rice Leaf Blast:</Subheading>
-      <strong>کھاد (Fertilizers):</strong>
+      <Subheading>(அரிசி இலை வெடிப்பு நோயின் ஆரம்ப கண்டறிதல்)</Subheading>
+      <strong>உரங்கள்:</strong>
       <List>
-        <ListItem>
-          (چاول کی پتے کی بلاسٹ بیماری) کے علامات کی شناخت کرنے کے بعد زنک اور آئرن
-          کے بیج کی تدارک بڑھائیں تاکہ چاول کو صحتیاب کریں اور بیماری کے خلاف
-          مزاحمت میں اضافہ ہو۔
-        </ListItem>
+        <ListItem>அறிகுறிகள் தெரிந்தவுடன் ஜிங்க் மற்றும் இரும்பு உரங்களை அதிகரிக்கவும்.</ListItem>
       </List>
-      <strong>کیڑے ماردار (Pesticides):</strong>
+      <strong>பூச்சி நாசினிகள்:</strong>
       <List>
-        <ListItem>
-          (چاول کی پتے کی بلاسٹ بیماری) کے علامات کا تشخیص کرتے ہیں تو فوراً
-          پائراکلوسٹروبن یا ٹرائی فلوکسٹروبن جیسے مخصوص فنگسائیڈ کا اطلاق کریں۔
-          جلد شناخت کے بعد جلدی انٹرنیشن پر مداخلت کرنے سے بیماری کا اختتام ہوسکتا
-          ہے اور دوسرے پودوں کو متاثرہ کرنے سے بچایا جاسکتا ہے۔
-        </ListItem>
+        <ListItem>அறிகுறிகள் தென்பட்டவுடன் பைரக்ளோஸ்ட்ரோபின் அல்லது ட்ரைஃப்ளோக்ஸ்ட்ரோபின் பயன்படுத்தவும்.</ListItem>
       </List>
 
-      <Subheading>شدید (چاول کی پتے کی بلاسٹ بیماری) کی صورت میں Severe Rice Leaf Blast Outbreak:</Subheading>
-      <strong>کھاد (Fertilizers):</strong>
+      <Subheading>கடுமையான தொற்றின் போது</Subheading>
+      <strong>உரங்கள்:</strong>
       <List>
-        <ListItem>
-          (چاول کی پتے کی بلاسٹ بیماری) کے شدید پھیلاؤ کی صورت میں، کاشت کاروں سے
-          مشورہ کریں یا مشورہ کاروں سے رابطہ کریں کہ کیسے موزوں کیڑے ماردار کے
-          تجویزات حاصل کریں۔ انہوں نے بیماری کو مدیریت کرنے کے لئے سسٹمک اور
-          حفاظتی فنگسائیڈز کا مجموعہ تجویز دے سکتے ہیں۔
-        </ListItem>
+        <ListItem>உரிய ஆலோசனைகளுக்கு விவசாய நிபுணர்களை அணுகவும்.</ListItem>
       </List>
-      <strong>کیڑے ماردار (Pesticides):</strong>
+      <strong>பூச்சி நாசினிகள்:</strong>
       <List>
-        <ListItem>
-          (چاول کی پتے کی بلاسٹ بیماری) کے شدید پھیلاؤ کے مقابلے میں کھاد اور کیڑے
-          ماردار کے مختلف تجویزات کے لئے کشاورز اور تعمیری کاروں سے مشورہ کریں۔
-          وہ بیماری کو کنٹرول کرنے کے لئے سسٹمک اور حفاظتی فنگسائیڈز کا استعمال
-          کرنے کی تجویز دے سکتے ہیں۔
-        </ListItem>
+        <ListItem>நோயை கட்டுப்படுத்த பல் வடிவ பூஞ்சை நாசினிகளை பயன்படுத்த ஆலோசனை பெறவும்.</ListItem>
       </List>
 
-      <Subheading>بیماری کی مزاحمت اور فصل کی روٹیشن Disease Resistance and Crop Rotation:</Subheading>
-      <strong>کھاد (Fertilizers):</strong>
+      <Subheading>நோய் எதிர்ப்பு மற்றும் பயிர் சுழற்சி</Subheading>
+      <strong>உரங்கள்:</strong>
       <List>
-        <ListItem>
-          مٹی میں عضوی مواد اور کمپوسٹ شامل کر کے مٹی کی صحت اور زرخیزی کو بہتر
-          بنائیں جو کہ اندازاً پودے کی بیماری کی مزاحمت کو بڑھا دیتا ہے۔
-        </ListItem>
+        <ListItem>மண்ணின் ஊட்டச்சத்து மற்றும் ஆரோக்கியத்தை மேம்படுத்த குழித்தூள் அல்லது கட்டிய உரங்களை சேர்க்கவும்.</ListItem>
       </List>
-      <strong>کیڑے ماردار (Pesticides):</strong>
+      <strong>பூச்சி நாசினிகள்:</strong>
       <List>
-        <ListItem>
-          (چاول کی پتے کی بلاسٹ بیماری) کے لئے مختلف طریقے سے فنگسائیڈز کا استعمال
-          کریں تاکہ فنگل آبادی میں مزاحمت کے بننے کا خدشہ نہ ہو۔ کھیتوں میں فصلوں
-          کی روٹیشن کا استعمال کرنے سے بیماری کے چکر کو توڑا جاسکتا ہے اور
-          چاول کی پتے کی بلاسٹ کے دوبارہ ظہور کو کم کیا جاسکتا ہے۔
-        </ListItem>
+        <ListItem>பூஞ்சை எதிர்ப்பு சக்தி உருவாகாமல் இருக்க, நாசினிகளை மாறி மாறி பயன்படுத்தவும்.</ListItem>
       </List>
 
-      <Subheading>موسم اور ماحولیاتی عوامل Weather and Environmental Factors:</Subheading>
-      <strong>کھاد (Fertilizers):</strong>
+      <Subheading>காலநிலை மற்றும் சுற்றுச்சூழல் காரகங்கள்</Subheading>
+      <strong>உரங்கள்:</strong>
       <List>
-        <ListItem>
-          (چاول کی پتے کی بلاسٹ بیماری) کے لئے کھاد کے اطلاق کے وقت اور معیار کو
-          موسم کی حالتوں کے مطابق ترتیب دیں۔ زیادہ برساتی دنوں میں، زنک اطلاق کرنے
-          کو کم کریں تاکہ لیچنگ اور ممکنہ ماحولیاتی مسائل سے بچا جاسکے۔
-        </ListItem>
+        <ListItem>உர பயன்பாட்டை காலநிலைக்கு ஏற்ப திட்டமிடவும்.</ListItem>
       </List>
-      <strong>کیڑے ماردار (Pesticides):</strong>
+      <strong>பூச்சி நாசினிகள்:</strong>
       <List>
-        <ListItem>
-          (چاول کی پتے کی بلاسٹ بیماری) کی تنبیہاتی کیچرز اور ماحولیاتی خطرے کو
-          نظرانداز نہ کریں تاکہ فنگسائیڈز کا اطلاق مناسب وقت پر ہو سکے جب کھال کی
-          پتے کی بلاسٹ کے لئے مواتی راکٹس بنیادی ہوتی ہے۔
-        </ListItem>
+        <ListItem>முன்னறிவிப்பு கருவிகளைப் பயன்படுத்தி சரியான நேரத்தில் பூஞ்சை நாசினிகளைத் தெளிக்கவும்.</ListItem>
       </List>
 
-      <Subheading>مقامی ضوابط اور حفاظتی تدابیر Local Regulations and Safety:</Subheading>
+      <Subheading>உள்ளூர் விதிமுறைகள் மற்றும் பாதுகாப்பு</Subheading>
       <p>
-        (چاول کی پتے کی بلاسٹ بیماری) کے کھاد اور کیڑے ماردار کے استعمال کے لئے
-        مقامی ضوابط اور حفاظتی تدابیر کا ہمیشہ پابندی سے پیروی کریں۔
+        உர மற்றும் பூச்சி நாசினிகள் பயன்பாட்டில் உள்ளூர் விதிகளை பின்பற்றவும்.
       </p>
       <p>
-        کھاد اور کیڑے ماردار کو ہینڈل اور اطلاق کرتے وقت شخصی حفاظتی تجھیزات
-        (PPE) اور مناسب اطلاق کی تقنیات کا استعمال کریں۔
+        பயனாளரின் பாதுகாப்பு உபகரணங்கள் மற்றும் சரியான தெளிப்பு முறைகளை பின்பற்றவும்.
       </p>
     </Description>
     <Description>
-      (ماحول اور غیر مقصودہ جانداروں پر منفی اثرات سے بچنے کے لئے منصوبہ بندی
-      کی جانے والی تجویزات اور حفاظتی تدابیر کے لئے کشاورزی ماہرین یا مقامی توسیعی
-      خدمات سے رجوع کریں۔
+      சுற்றுச்சூழலுக்கும் பயனற்ற உயிரினங்களுக்கும் பாதிப்பு ஏற்படாமல் இருக்க, விவசாய நிபுணர்களிடமோ அல்லது உள்ளூர் தொழில்நுட்ப உதவி மையங்களிடமோ ஆலோசனை பெறவும்.
     </Description>
-  </Container>
+</Container>
+
 </Urdu>
 
     </>
